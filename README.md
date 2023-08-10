@@ -18,3 +18,7 @@ Large scale disturbances, such as volcanic eruptions and open mining operations,
 Végh, L, Tsuyuzaki, S. 2021 Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research. 1– 11. https://doi.org/10.1111/1440-1703.12199
 
 Végh, L, Tsuyuzaki, S. 2022 Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan — Impacts of early forest management. Forest Ecology and management. 510. !{https://doi.org/10.1016/j.foreco.2022.120106}
+
+## Masting in forests: a playful introduction
+
+Here is some background information to better understand the game played during the presentation.
