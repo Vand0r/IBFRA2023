@@ -31,7 +31,9 @@ Here is some background information to better understand the game played during 
 
 Following the example of the European Geosciences Union’s Games Jam sessions, I intend to use a little game to introduce masting to the attendants of the session. Masting is the intermittent, irregular seed production of certain plant species, such as oaks, beech, and chestnuts in the Fagaceae family. In some years, called mast years, these species produce many seeds, while in other years they produce few or none. Although the scientific background of masting is still debated, it is influenced by the weather and the synchrony of flowering in the forest, which influence available resources for masting and pollination efficiency. Each attendant, or player, will represent an individual oak tree in the forest and in each round, or year, accumulate resources depending on the weather in that year. In each round, the players decide individually whether to use these resources for growth, for flowering, or for storage. If the players manage to coordinate their flowering efforts, the flowers will turn into acorns. However, if too much acorn is produced, the population of species living on acorns will also increase, decimating the number of healthy acorns. The aim of the game is to maintain the intensity and frequency of mast years in the forests by cooperating with other players. As climate change affects masting via changes in the start and length of the growing season, the players can try out different climate scenarios and see in which one it is the most difficult to maintain masting patterns.
 
-![Typical masting pattern. Yellow arrows mark mast years.](Mast_years.png) {width=50%}
+<img src="Mast_years.png"  width="50%" height="50%">  
+
+*Typical masting pattern over the years. Yellow arrows mark mast years.*
 
 ### What drives masting?
 
@@ -41,7 +43,8 @@ It is still not clearly understood what drives masting and how are plants synchr
 
 According to the Resource budget hypothesis (Isagi et al. 1997), mast species only initiate flowering when their resources cross a certain threshold. When this threshold is crossed, they use the superfluous resources to invest in flowering. Fertilized flowers will develop into seeds later, using additional resources determined by the flower to fruit to ratio. After a successful mast year, the tree exhausts its resources and need time to recover for the next masting event.
 
-![*P~s~* marks resources the year accumulates](RB.png)
+![](RB.png)  
+*Illustrating the resource budget hypothesis. P<sub>s</sub> marks resources the tree accumulates, L<sub>T</sub> the threshold level need to be crossed, C<sub>f</sub> and C<sub>a</sub> the resources used for flower and acorn production, respectively.*
 
 **Pollen limitation**
 
@@ -92,7 +95,7 @@ Touzot, L., Schermer, É., Venner, S., Delzon, S., Rousset, C., Baubet, É., Gai
 
 ## Contact
 
-Research Associate
-National Institute for Environmental Studies (NIES, Japan)
+Research Associate  
+National Institute for Environmental Studies (NIES, Japan)  
 Email: lea.vegh@nies.go.jp
 
