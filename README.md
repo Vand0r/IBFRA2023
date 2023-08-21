@@ -95,9 +95,8 @@ Touzot, L., Schermer, É., Venner, S., Delzon, S., Rousset, C., Baubet, É., Gai
 
 ## Contact
 
-Research Associate
-
-National Institute for Environmental Studies (NIES, Japan)
-
+Lea Végh  
+Research Associate  
+National Institute for Environmental Studies (NIES, Japan)  
 Email: lea.vegh@nies.go.jp
 
