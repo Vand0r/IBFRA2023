@@ -17,9 +17,9 @@ Large scale disturbances, such as volcanic eruptions and open mining operations,
 
 ### References-poster
 
-Végh, L, Tsuyuzaki, S. 2021 Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research. 1– 11. https://doi.org/10.1111/1440-1703.12199
+Végh, L, Tsuyuzaki, S. 2021 Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research. 1– 11. [https://doi.org/10.1111/1440-1703.12199](https://doi.org/10.1111/1440-1703.12199)
 
-Végh, L, Tsuyuzaki, S. 2022 Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan — Impacts of early forest management. Forest Ecology and management. 510. !{https://doi.org/10.1016/j.foreco.2022.120106}
+Végh, L, Tsuyuzaki, S. 2022 Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan — Impacts of early forest management. Forest Ecology and management. 510. [https://doi.org/10.1016/j.foreco.2022.120106](https://doi.org/10.1016/j.foreco.2022.120106)
 
 ## Masting in forests: a playful introduction
 
@@ -64,27 +64,27 @@ Climate change influences the fecundity of trees (Clark et al. 2021) and masting
 
 ### References-presentation
 
-Barrere, J., Boulanger, V., Collet, C., Walker, E., Siat, V., Henry, L., Saïd, S., 2020. How does oak mast seeding affect the feeding behavior of sympatric red and roe deer? Basic Appl. Ecol. 47, 83–94. https://doi.org/10.1016/j.baae.2020.04.006
+Barrere, J., Boulanger, V., Collet, C., Walker, E., Siat, V., Henry, L., Saïd, S., 2020. How does oak mast seeding affect the feeding behavior of sympatric red and roe deer? Basic Appl. Ecol. 47, 83–94. [https://doi.org/10.1016/j.baae.2020.04.006](https://doi.org/10.1016/j.baae.2020.04.006)
 
-Bogdziewicz, M., Kelly, D., Thomas, P.A., Lageard, J.G.A., Hacket-Pain, A., 2020. Climate warming disrupts mast seeding and its fitness benefits in European beech. Nat. Plants 6, 88–94. https://doi.org/10.1038/s41477-020-0592-8
+Bogdziewicz, M., Kelly, D., Thomas, P.A., Lageard, J.G.A., Hacket-Pain, A., 2020. Climate warming disrupts mast seeding and its fitness benefits in European beech. Nat. Plants 6, 88–94. [https://doi.org/10.1038/s41477-020-0592-8](https://doi.org/10.1038/s41477-020-0592-8)
 
-Clark, J.S., Andrus, R., Aubry-Kientz, M., Bergeron, Y., Bogdziewicz, M., Bragg, D.C., Brockway, D., Cleavitt, N.L., Cohen, S., Courbaud, B., Daley, R., Das, A.J., Dietze, M., Fahey, T.J., Fer, I., Franklin, J.F., Gehring, C.A., Gilbert, G.S., Greenberg, C.H., Guo, Q., HilleRisLambers, J., Ibanez, I., Johnstone, J., Kilner, C.L., Knops, J., Koenig, W.D., Kunstler, G., LaMontagne, J.M., Legg, K.L., Luongo, J., Lutz, J.A., Macias, D., McIntire, E.J.B., Messaoud, Y., Moore, C.M., Moran, E., Myers, J.A., Myers, O.B., Nunez, C., Parmenter, R., Pearse, S., Pearson, S., Poulton-Kamakura, R., Ready, E., Redmond, M.D., Reid, C.D., Rodman, K.C., Scher, C.L., Schlesinger, W.H., Schwantes, A.M., Shanahan, E., Sharma, S., Steele, M.A., Stephenson, N.L., Sutton, S., Swenson, J.J., Swift, M., Veblen, T.T., Whipple, A.V., Whitham, T.G., Wion, A.P., Zhu, K., Zlotin, R., 2021. Continent-wide tree fecundity driven by indirect climate effects. Nat. Commun. 12, 1242. https://doi.org/10.1038/s41467-020-20836-3
+Clark, J.S., Andrus, R., Aubry-Kientz, M., Bergeron, Y., Bogdziewicz, M., Bragg, D.C., Brockway, D., Cleavitt, N.L., Cohen, S., Courbaud, B., Daley, R., Das, A.J., Dietze, M., Fahey, T.J., Fer, I., Franklin, J.F., Gehring, C.A., Gilbert, G.S., Greenberg, C.H., Guo, Q., HilleRisLambers, J., Ibanez, I., Johnstone, J., Kilner, C.L., Knops, J., Koenig, W.D., Kunstler, G., LaMontagne, J.M., Legg, K.L., Luongo, J., Lutz, J.A., Macias, D., McIntire, E.J.B., Messaoud, Y., Moore, C.M., Moran, E., Myers, J.A., Myers, O.B., Nunez, C., Parmenter, R., Pearse, S., Pearson, S., Poulton-Kamakura, R., Ready, E., Redmond, M.D., Reid, C.D., Rodman, K.C., Scher, C.L., Schlesinger, W.H., Schwantes, A.M., Shanahan, E., Sharma, S., Steele, M.A., Stephenson, N.L., Sutton, S., Swenson, J.J., Swift, M., Veblen, T.T., Whipple, A.V., Whitham, T.G., Wion, A.P., Zhu, K., Zlotin, R., 2021. Continent-wide tree fecundity driven by indirect climate effects. Nat. Commun. 12, 1242. [https://doi.org/10.1038/s41467-020-20836-3](https://doi.org/10.1038/s41467-020-20836-3)
 
-Drobyshev, I., Niklasson, M., Mazerolle, M.J., Bergeron, Y., 2014. Reconstruction of a 253-year long mast record of European beech reveals its association with large scale temperature variability and no long-term trend in mast frequencies. Agric. For. Meteorol. 192–193, 9–17. https://doi.org/10.1016/j.agrformet.2014.02.010
+Drobyshev, I., Niklasson, M., Mazerolle, M.J., Bergeron, Y., 2014. Reconstruction of a 253-year long mast record of European beech reveals its association with large scale temperature variability and no long-term trend in mast frequencies. Agric. For. Meteorol. 192–193, 9–17. [https://doi.org/10.1016/j.agrformet.2014.02.010](https://doi.org/10.1016/j.agrformet.2014.02.010)
 
-Isagi, Y., Sugimura, K., Sumida, A., Ito, H., 1997. How Does Masting Happen and Synchronize? J. Theor. Biol. 187, 231–239. https://doi.org/10.1006/jtbi.1997.0442
+Isagi, Y., Sugimura, K., Sumida, A., Ito, H., 1997. How Does Masting Happen and Synchronize? J. Theor. Biol. 187, 231–239. [https://doi.org/10.1006/jtbi.1997.0442](https://doi.org/10.1006/jtbi.1997.0442)
 
-Nakamura, M., Muller, O., Tayanagi, S., Nakaji, T., Hiura, T., 2010. Experimental branch warming alters tall tree leaf phenology and acorn production. Agric. For. Meteorol. 150, 1026–1029. https://doi.org/10.1016/j.agrformet.2010.04.001
+Nakamura, M., Muller, O., Tayanagi, S., Nakaji, T., Hiura, T., 2010. Experimental branch warming alters tall tree leaf phenology and acorn production. Agric. For. Meteorol. 150, 1026–1029. [https://doi.org/10.1016/j.agrformet.2010.04.001](https://doi.org/10.1016/j.agrformet.2010.04.001)
 
-Pearse, I.S., Koenig, W.D., Kelly, D., 2016. Mechanisms of mast seeding: resources, weather, cues, and selection. New Phytol. 212, 546–562. https://doi.org/10.1111/nph.14114
+Pearse, I.S., Koenig, W.D., Kelly, D., 2016. Mechanisms of mast seeding: resources, weather, cues, and selection. New Phytol. 212, 546–562. [https://doi.org/10.1111/nph.14114](https://doi.org/10.1111/nph.14114)
 
-Satake, A., Iwasa, Y., 2000. Pollen Coupling of Forest Trees: Forming Synchronized and Periodic Reproduction out of Chaos. J. Theor. Biol. 203, 63–84. https://doi.org/10.1006/jtbi.1999.1066
+Satake, A., Iwasa, Y., 2000. Pollen Coupling of Forest Trees: Forming Synchronized and Periodic Reproduction out of Chaos. J. Theor. Biol. 203, 63–84. [https://doi.org/10.1006/jtbi.1999.1066](https://doi.org/10.1006/jtbi.1999.1066)
 
-Sato, Y., Endo, M., 2006. Relationship between crop use by brown bears and Quercus crispula acorn production in Furano, central Hokkaido, Japan. Mammal Study 31, 93–104. https://doi.org/10.3106/1348-6160(2006)31[93:RBCUBB]2.0.CO;2
-Schermer, É., Bel-Venner, M.-C., Fouchet, D., Siberchicot, A., Boulanger, V., Caignard, T., Thibaudon, M., Oliver, G., Nicolas, M., Gaillard, J.-M., Delzon, S., Venner, S., 2019. Pollen limitation as a main driver of fruiting dynamics in oak populations. Ecol. Lett. 22, 98–107. https://doi.org/10.1111/ele.13171
+Sato, Y., Endo, M., 2006. Relationship between crop use by brown bears and Quercus crispula acorn production in Furano, central Hokkaido, Japan. Mammal Study 31, 93–104. [https://doi.org/10.3106/1348-6160(2006)31[93:RBCUBB]2.0.CO;2](https://doi.org/10.3106/1348-6160(2006)31[93:RBCUBB]2.0.CO;2)
+Schermer, É., Bel-Venner, M.-C., Fouchet, D., Siberchicot, A., Boulanger, V., Caignard, T., Thibaudon, M., Oliver, G., Nicolas, M., Gaillard, J.-M., Delzon, S., Venner, S., 2019. Pollen limitation as a main driver of fruiting dynamics in oak populations. Ecol. Lett. 22, 98–107. [https://doi.org/10.1111/ele.13171](https://doi.org/10.1111/ele.13171)
 
-Shibata, M., Masaki, T., Yagihashi, T., Shimada, T., Saitoh, T., 2020. Decadal changes in masting behaviour of oak trees with rising temperature. J. Ecol. 108, 1088–1100. https://doi.org/10.1111/1365-2745.13337
-Shimada, T., Saitoh, T., 2006. Re-evaluation of the relationship between rodent populations and acorn masting: a review from the aspect of nutrients and defensive chemicals in acorns. Popul. Ecol. 48, 341–352. https://doi.org/10.1007/s10144-006-0012-6
+Shibata, M., Masaki, T., Yagihashi, T., Shimada, T., Saitoh, T., 2020. Decadal changes in masting behaviour of oak trees with rising temperature. J. Ecol. 108, 1088–1100. [https://doi.org/10.1111/1365-2745.13337](https://doi.org/10.1111/1365-2745.13337)
+Shimada, T., Saitoh, T., 2006. Re-evaluation of the relationship between rodent populations and acorn masting: a review from the aspect of nutrients and defensive chemicals in acorns. Popul. Ecol. 48, 341–352. [https://doi.org/10.1007/s10144-006-0012-6](https://doi.org/10.1007/s10144-006-0012-6)
 
 Touzot, L., Schermer, É., Venner, S., Delzon, S., Rousset, C., Baubet, É., Gaillard, J.-M., Gamelon, M., 2020. How does increasing mast seeding frequency affect population dynamics of seed consumers? Wild boar as a case study. Ecol. Appl. 30, [https://doi.org/10.1002/eap.2134](https://doi.org/10.1002/eap.2134)
 
