@@ -13,7 +13,7 @@ Large scale disturbances, such as volcanic eruptions and open mining operations,
 
 ### Poster
 
-
+![](IBFRA_2023_Disturbance_0821.png)
 
 ### References
 
