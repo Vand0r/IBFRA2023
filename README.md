@@ -1,5 +1,5 @@
 # IBFRA2023
-Conference materials
+Lea Végh - Conference materials
 
 ## Recovery after large scale disturbances: the power of vegetation patches
 
@@ -26,3 +26,11 @@ Here is some background information to better understand the game played during 
 ### Abstract
 
 Following the example of the European Geosciences Union’s Games Jam sessions, I intend to use a little game to introduce masting to the attendants of the session. Masting is the intermittent, irregular seed production of certain plant species, such as oaks, beech, and chestnuts in the Fagaceae family. In some years, called mast years, these species produce many seeds, while in other years they produce few or none. Although the scientific background of masting is still debated, it is influenced by the weather and the synchrony of flowering in the forest, which influence available resources for masting and pollination efficiency. Each attendant, or player, will represent an individual oak tree in the forest and in each round, or year, accumulate resources depending on the weather in that year. In each round, the players decide individually whether to use these resources for growth, for flowering, or for storage. If the players manage to coordinate their flowering efforts, the flowers will turn into acorns. However, if too much acorn is produced, the population of species living on acorns will also increase, decimating the number of healthy acorns. The aim of the game is to maintain the intensity and frequency of mast years in the forests by cooperating with other players. As climate change affects masting via changes in the start and length of the growing season, the players can try out different climate scenarios and see in which one it is the most difficult to maintain masting patterns.
+
+### What drives masting?
+
+It is still not clearly understood what drives masting and how are plants synchronize their flowering efforts over large areas. The game I created for the presentation picked elements of popular masting theories: the resource budget hypothesis, the pollen limitation hypothesis, and the predator satiation hypothesis, combined with the impact of weather when accummulating resources.
+
+**Resource budget hypothesis**
+
+According to the Resource budget hypothesis (Isagi et al. 1997), mast species only initiate flowering when their resources cross a certain threshold. When this threshold is crossed, they use the superfluous resources
