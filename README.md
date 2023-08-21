@@ -15,7 +15,7 @@ Large scale disturbances, such as volcanic eruptions and open mining operations,
 
 ![](IBFRA_2023_Disturbance_0821.png)
 
-### References
+### References-poster
 
 Végh, L, Tsuyuzaki, S. 2021 Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research. 1– 11. https://doi.org/10.1111/1440-1703.12199
 
@@ -62,7 +62,7 @@ In good weather conditions, the trees can produce photosynthates in optimal quan
 
 Climate change influences the fecundity of trees (Clark et al. 2021) and masting patterns are also changing depending on the species and location. Oaks were observed to increase the frequency of mast years (Shibata et al. 2020) and produce more acorns with warmer temperatures (Nakamura et al. 2010). However, more frequent mast years cause the number of predators to be continuously high, decreasing the number of seeds which escapes predation (Bogdziewicz et al. 2020).
 
-### References
+### References-presentation
 
 Barrere, J., Boulanger, V., Collet, C., Walker, E., Siat, V., Henry, L., Saïd, S., 2020. How does oak mast seeding affect the feeding behavior of sympatric red and roe deer? Basic Appl. Ecol. 47, 83–94. https://doi.org/10.1016/j.baae.2020.04.006
 
