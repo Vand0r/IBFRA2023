@@ -1,29 +1,9 @@
 # IBFRA 2023
 Lea Végh - Conference materials
 
-## Recovery after large scale disturbances: the power of vegetation patches
-
-*2023. Aug. 30., Lea Végh*
-
-Abstract, Poster, and References
-
-### Abstract
-
-Large scale disturbances, such as volcanic eruptions and open mining operations, often completely erase the vegetation cover and destroy soil communities, prompting primary succession. Primary succession is a slow process, and many years are needed until the vegetation grows strong enough to prevent landslides or flash floods from runoff precipitation. To reduce the risks of such events, active interventions, such as revegetation by planting trees in critical areas, can accelerate the development of vegetation cover. However, these artificial plantations might foster different plant communities and species diversities compared to naturally recovered forests, resulting in long-term negative impacts in exchange for short-term positive ones. Is there a better approach which maximizes recovery speed but retains advantages of natural succession? By investigating vegetation patch dynamics and comparing plant species diversities and communities among several forest types after volcanic eruptions, I propose that planting trees and shrubs in patches near each other fosters quick recovery and native species composition. Observations at the volcano Mount Usu (Hokkaido, Japan), showed that in the early stages of recovery, natural vegetation patches expanded faster and had denser vegetation if they were clustered close to each other. Similarly, plantations with patch-like design encouraged the establishment of native species, by protecting fresh recruits from the harsh environment in the open spaces between the planted trees, resulting in higher species diversity and native species composition. Although the planted tree species changed canopy composition compared to natural forests, the understorey layer trended toward natural species compositions if appropriate species were selected during the planting phase. In summary, if quick recovery is desired after large scale disturbances, spatially heterogeneous, patchy planting design are better than dense, homogeneous plantations in reaching natural species compositions and diversities.
-
-### Poster
-
-![](IBFRA_2023_Disturbance_0821.png)
-
-### References-poster
-
-Végh, L, Tsuyuzaki, S. 2021 Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research. 1– 11. [https://doi.org/10.1111/1440-1703.12199](https://doi.org/10.1111/1440-1703.12199)
-
-Végh, L, Tsuyuzaki, S. 2022 Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan — Impacts of early forest management. Forest Ecology and management. 510. [https://doi.org/10.1016/j.foreco.2022.120106](https://doi.org/10.1016/j.foreco.2022.120106)
-
 ## Masting in forests: a playful introduction
 
-*2023. Aug. 29., Lea Végh*
+*2023. Aug. 29.*
 
 Here is some background information to better understand the game played during the presentation. The game borrowed elements from the various research described below, but modified and quantified certain parts freely to facilitate quick and easy flow.
 
@@ -89,6 +69,25 @@ Shimada, T., Saitoh, T., 2006. Re-evaluation of the relationship between rodent 
 Touzot, L., Schermer, É., Venner, S., Delzon, S., Rousset, C., Baubet, É., Gaillard, J.-M., Gamelon, M., 2020. How does increasing mast seeding frequency affect population dynamics of seed consumers? Wild boar as a case study. Ecol. Appl. 30, [https://doi.org/10.1002/eap.2134](https://doi.org/10.1002/eap.2134)
 
 
+## Recovery after large scale disturbances: the power of vegetation patches
+
+*2023. Aug. 30.*
+
+Abstract, Poster, and References
+
+### Abstract
+
+Large scale disturbances, such as volcanic eruptions and open mining operations, often completely erase the vegetation cover and destroy soil communities, prompting primary succession. Primary succession is a slow process, and many years are needed until the vegetation grows strong enough to prevent landslides or flash floods from runoff precipitation. To reduce the risks of such events, active interventions, such as revegetation by planting trees in critical areas, can accelerate the development of vegetation cover. However, these artificial plantations might foster different plant communities and species diversities compared to naturally recovered forests, resulting in long-term negative impacts in exchange for short-term positive ones. Is there a better approach which maximizes recovery speed but retains advantages of natural succession? By investigating vegetation patch dynamics and comparing plant species diversities and communities among several forest types after volcanic eruptions, I propose that planting trees and shrubs in patches near each other fosters quick recovery and native species composition. Observations at the volcano Mount Usu (Hokkaido, Japan), showed that in the early stages of recovery, natural vegetation patches expanded faster and had denser vegetation if they were clustered close to each other. Similarly, plantations with patch-like design encouraged the establishment of native species, by protecting fresh recruits from the harsh environment in the open spaces between the planted trees, resulting in higher species diversity and native species composition. Although the planted tree species changed canopy composition compared to natural forests, the understorey layer trended toward natural species compositions if appropriate species were selected during the planting phase. In summary, if quick recovery is desired after large scale disturbances, spatially heterogeneous, patchy planting design are better than dense, homogeneous plantations in reaching natural species compositions and diversities.
+
+### Poster
+
+![](IBFRA_2023_Disturbance_0821.png)
+
+### References-poster
+
+Végh, L, Tsuyuzaki, S. 2021 Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research. 1– 11. [https://doi.org/10.1111/1440-1703.12199](https://doi.org/10.1111/1440-1703.12199)
+
+Végh, L, Tsuyuzaki, S. 2022 Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan — Impacts of early forest management. Forest Ecology and management. 510. [https://doi.org/10.1016/j.foreco.2022.120106](https://doi.org/10.1016/j.foreco.2022.120106)
 
 
 
