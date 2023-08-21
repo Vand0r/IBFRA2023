@@ -86,7 +86,7 @@ Schermer, É., Bel-Venner, M.-C., Fouchet, D., Siberchicot, A., Boulanger, V., C
 Shibata, M., Masaki, T., Yagihashi, T., Shimada, T., Saitoh, T., 2020. Decadal changes in masting behaviour of oak trees with rising temperature. J. Ecol. 108, 1088–1100. https://doi.org/10.1111/1365-2745.13337
 Shimada, T., Saitoh, T., 2006. Re-evaluation of the relationship between rodent populations and acorn masting: a review from the aspect of nutrients and defensive chemicals in acorns. Popul. Ecol. 48, 341–352. https://doi.org/10.1007/s10144-006-0012-6
 
-Touzot, L., Schermer, É., Venner, S., Delzon, S., Rousset, C., Baubet, É., Gaillard, J.-M., Gamelon, M., 2020. How does increasing mast seeding frequency affect population dynamics of seed consumers? Wild boar as a case study. Ecol. Appl. 30, e02134. [https://doi.org/10.1002/eap.2134]
+Touzot, L., Schermer, É., Venner, S., Delzon, S., Rousset, C., Baubet, É., Gaillard, J.-M., Gamelon, M., 2020. How does increasing mast seeding frequency affect population dynamics of seed consumers? Wild boar as a case study. Ecol. Appl. 30, e02134. ![](https://doi.org/10.1002/eap.2134)
 
 
 
