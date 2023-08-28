@@ -5,7 +5,7 @@ Lea Végh - Conference materials
 
 *2023. Aug. 29.*
 
-Here is some background information to better understand the game played during the presentation. The game borrowed elements from the various research described below, but modified and quantified certain parts freely to facilitate quick and easy flow.
+Here is some background information to better understand the game played during the presentation. The game borrowed elements from various studies described below, but freely modified and quantified certain parts to facilitate quick and easy flow.
 
 ### Abstract
 
@@ -17,11 +17,11 @@ Following the example of the European Geosciences Union’s Games Jam sessions, 
 
 ### What drives masting?
 
-It is still not clearly understood what drives masting and how are plants synchronize their flowering efforts over large areas. The game I created for the presentation picked elements of popular masting theories: the resource budget hypothesis, the pollen limitation hypothesis, and the predator satiation hypothesis, combined with the impact of weather when accummulating resources. Apart from oaks, which were used in the game, many other species display masting patterns (e.g. beech, chestnut, pine trees), differing in their processes and sensitivity to changes.
+It is still not clearly understood what drives masting and how do plants synchronize their flowering efforts over large areas. The game I created for the presentation picked elements from popular masting theories: the resource budget hypothesis, the pollen limitation hypothesis, and the predator satiation hypothesis, combined with the impact of weather when accummulating resources. Apart from oaks, which were used in the game, many other species display masting patterns (e.g. beech, chestnut, pine trees), differing in their processes and sensitivity to changes.
 
 **Resource budget hypothesis**
 
-According to the Resource budget hypothesis (Isagi et al. 1997), mast species only initiate flowering when their resources cross a certain threshold. When this threshold is crossed, they use the superfluous resources to invest in flowering. Fertilized flowers will develop into seeds later, using additional resources determined by the flower to fruit to ratio. After a successful mast year, the tree exhausts its resources and need time to recover for the next masting event.
+According to the Resource budget hypothesis (Isagi et al. 1997), mast species only initiate flowering when their resources cross a certain threshold. When this threshold is crossed, they use the superfluous resources to invest in flowering. Fertilized flowers will develop into seeds later, using additional resources determined by the flower to fruit to ratio. After a successful mast year, the tree exhausts its resources and needs time to recover for the next masting event.
 
 ![](RB.png)  
 *Illustrating the resource budget hypothesis. P<sub>s</sub> marks resources the tree accumulates, L<sub>T</sub> the threshold level need to be crossed, C<sub>f</sub> and C<sub>a</sub> the resources used for flower and acorn production, respectively.*
@@ -32,19 +32,21 @@ The resource budget hypothesis does not explains in itself why trees synchronize
 
 **Predator satiation**
 
-Many animals depend on the seeds of masting species such as rodents (Shimada and Saitoh 2006), deers (Barrere et al. 2020), boars (Touzot et al. 2020), and bears (Sato and Endo 2006). From an evolutionar perspective, masting might have been developed to keep the loss to predators low. When plants produce seeds together in large quantity, the predator population will be satiated and some seeds will remain untouched. The abundance of seeds will cause the population of predators to grow, but as the next years usually have very low seed production, the number of predators will decrease again, so by the time of the next maxt year, their population is small enough not to be able to eat everything.
+Many animals depend on the seeds of masting species such as rodents (Shimada and Saitoh 2006), deers (Barrere et al. 2020), boars (Touzot et al. 2020), and bears (Sato and Endo 2006). From an evolutionar perspective, masting might have been developed to keep the loss to predators low. When plants produce seeds together in large quantity, the predators cannot eat all; they will be satiated and some seeds will remain untouched. The abundance of seeds will cause the population of predators to grow, but as the next years usually have very low seed production, the number of predators will decrease again, so by the time of the next maxt year, their population is small enough not to be able to eat everything.
 
 **Weather conditions**
 
-In good weather conditions, the trees can produce photosynthates in optimal quantities, helping them to increase their resources for masting and everyday processes. Optimal weather conditions are often observed to preceed mast years (Drobyshev et al. 2014, Shibata et al. 2020).
+In good weather conditions, the trees can produce photosynthates in optimal quantities, helping them to increase their resources for masting and everyday processes. Optimal weather conditions are often observed to preceed mast years (Drobyshev et al. 2014, Shibata et al. 2020), but there is no consensus regarding the period of importance and what constitutes good weather conditions. The game also did not include abortive weather events, commonly discussed as environmental veto (Bogdziewicz et al. 2018).
 
 ### Masting and climate change
 
-Climate change influences the fecundity of trees (Clark et al. 2021) and masting patterns are also changing depending on the species and location. Oaks were observed to increase the frequency of mast years (Shibata et al. 2020) and produce more acorns with warmer temperatures (Nakamura et al. 2010). However, more frequent mast years cause the number of predators to be continuously high, decreasing the number of seeds which escapes predation (Bogdziewicz et al. 2020).
+Climate change influences the fecundity of trees (Clark et al. 2021) and masting patterns are also changing depending on the species and location. Oaks were observed to increase the frequency of mast years (Shibata et al. 2020) and produce more acorns with warmer temperatures (Nakamura et al. 2010). However, more frequent mast years cause the number of predators to be continuously high, decreasing the number of seeds which escapes predation (Bogdziewicz et al. 2020). In the version of the game we played during the presentation, the impacts of climate change were not included, but they can be added easily for future games.
 
 ### References-presentation
 
 Barrere, J., Boulanger, V., Collet, C., Walker, E., Siat, V., Henry, L., Saïd, S., 2020. How does oak mast seeding affect the feeding behavior of sympatric red and roe deer? Basic Appl. Ecol. 47, 83–94. [https://doi.org/10.1016/j.baae.2020.04.006](https://doi.org/10.1016/j.baae.2020.04.006)
+
+Bogdziewicz, M., Steele, M.A., Marino, S. and Crone, E.E. (2018), Correlated seed failure as an environmental veto to synchronize reproduction of masting plants. New Phytol, 219: 98-108. [https://doi.org/10.1111/nph.15108](https://doi.org/10.1111/nph.15108)
 
 Bogdziewicz, M., Kelly, D., Thomas, P.A., Lageard, J.G.A., Hacket-Pain, A., 2020. Climate warming disrupts mast seeding and its fitness benefits in European beech. Nat. Plants 6, 88–94. [https://doi.org/10.1038/s41477-020-0592-8](https://doi.org/10.1038/s41477-020-0592-8)
 
@@ -99,3 +101,4 @@ Research Associate
 National Institute for Environmental Studies (NIES, Japan)  
 Email: lea.vegh@nies.go.jp
 
+<img src="NIESLogo2.png"  width="50%" height="50%">  
