@@ -46,7 +46,9 @@ Climate change influences the fecundity of trees (Clark et al. 2021) and masting
 
 ### Further research
 
-We are working to incorporate masting into a global dynamic vegetation model, called SEIB-DGVM (Sato et al. 2007). Preliminary results show that mimicking the resource budget hypothesis coupling with pollen limitation could reproduce masting characteristics of the oak (*Quercus crispula*) at our validation site. In the next steps, we will expand the model to cover first Japan, then the Northern Hemisphere. For more information, find my contact information at the bottom of the page.
+We are working to incorporate masting into a global dynamic vegetation model, called SEIB-DGVM (Sato et al. 2007). Preliminary results show that mimicking the resource budget hypothesis coupling with pollen limitation could reproduce masting characteristics of the oak (*Quercus crispula*) at our validation site. In the next steps, we will expand the model to cover first Japan, then the Northern Hemisphere. The development of the masting model is done together with Kato Tomomichi from Hokkaido University, who introduced me to the mysterieus world of masting. For more information, find my contact information at the bottom of the page.
+
+
 
 ### References-presentation
 
@@ -101,7 +103,9 @@ Végh, L, Tsuyuzaki, S. 2021 Comparison of vegetation patch dynamics after the e
 
 Végh, L, Tsuyuzaki, S. 2022 Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan — Impacts of early forest management. Forest Ecology and management. 510. [https://doi.org/10.1016/j.foreco.2022.120106](https://doi.org/10.1016/j.foreco.2022.120106)
 
+### Acknowledgements
 
+I wish to thank my supervisor, Tsuyuzaki Shiro from Hokkaido University, for his help and comments during the study.
 
 
 ## Contact
