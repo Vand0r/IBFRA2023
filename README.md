@@ -1,6 +1,8 @@
 # IBFRA 2023
 Lea Végh - Conference materials
 
+Scroll down for the poster presentation and contact information or use the side menu on the left.
+
 ## Masting in forests: a playful introduction
 
 *2023. Aug. 29.*
@@ -42,6 +44,10 @@ In good weather conditions, the trees can produce photosynthates in optimal quan
 
 Climate change influences the fecundity of trees (Clark et al. 2021) and masting patterns are also changing depending on the species and location. Oaks were observed to increase the frequency of mast years (Shibata et al. 2020) and produce more acorns with warmer temperatures (Nakamura et al. 2010). However, more frequent mast years cause the number of predators to be continuously high, decreasing the number of seeds which escapes predation (Bogdziewicz et al. 2020). In the version of the game we played during the presentation, the impacts of climate change were not included, but they can be added easily for future games.
 
+### Further research
+
+We are working to incorporate masting into a global dynamic vegetation model, called SEIB-DGVM (Sato et al. 2007). Preliminary results show that mimicking the resource budget hypothesis coupling with pollen limitation could reproduce masting characteristics of the oak (*Quercus crispula*) at our validation site. In the next steps, we will expand the model to cover first Japan, then the Northern Hemisphere. For more information, find my contact information at the bottom of the page.
+
 ### References-presentation
 
 Barrere, J., Boulanger, V., Collet, C., Walker, E., Siat, V., Henry, L., Saïd, S., 2020. How does oak mast seeding affect the feeding behavior of sympatric red and roe deer? Basic Appl. Ecol. 47, 83–94. [https://doi.org/10.1016/j.baae.2020.04.006](https://doi.org/10.1016/j.baae.2020.04.006)
@@ -63,9 +69,13 @@ Pearse, I.S., Koenig, W.D., Kelly, D., 2016. Mechanisms of mast seeding: resourc
 Satake, A., Iwasa, Y., 2000. Pollen Coupling of Forest Trees: Forming Synchronized and Periodic Reproduction out of Chaos. J. Theor. Biol. 203, 63–84. [https://doi.org/10.1006/jtbi.1999.1066](https://doi.org/10.1006/jtbi.1999.1066)
 
 Sato, Y., Endo, M., 2006. Relationship between crop use by brown bears and Quercus crispula acorn production in Furano, central Hokkaido, Japan. Mammal Study 31, 93–104. [https://doi.org/10.3106/1348-6160(2006)31[93:RBCUBB]2.0.CO;2](https://doi.org/10.3106/1348-6160(2006)31[93:RBCUBB]2.0.CO;2)
+
+Sato H., Itoh A., Kohyama T., 2007. SEIB-DGVM: A New Dynamic Global Vegetation Model using a Spatially Explicit Individual-Based Approach. Ecol. Modell. 200(3-4), 279-307. [https://doi.org/10.1016/j.ecolmodel.2006.09.006](https://doi.org/10.1016/j.ecolmodel.2006.09.006)
+
 Schermer, É., Bel-Venner, M.-C., Fouchet, D., Siberchicot, A., Boulanger, V., Caignard, T., Thibaudon, M., Oliver, G., Nicolas, M., Gaillard, J.-M., Delzon, S., Venner, S., 2019. Pollen limitation as a main driver of fruiting dynamics in oak populations. Ecol. Lett. 22, 98–107. [https://doi.org/10.1111/ele.13171](https://doi.org/10.1111/ele.13171)
 
 Shibata, M., Masaki, T., Yagihashi, T., Shimada, T., Saitoh, T., 2020. Decadal changes in masting behaviour of oak trees with rising temperature. J. Ecol. 108, 1088–1100. [https://doi.org/10.1111/1365-2745.13337](https://doi.org/10.1111/1365-2745.13337)
+
 Shimada, T., Saitoh, T., 2006. Re-evaluation of the relationship between rodent populations and acorn masting: a review from the aspect of nutrients and defensive chemicals in acorns. Popul. Ecol. 48, 341–352. [https://doi.org/10.1007/s10144-006-0012-6](https://doi.org/10.1007/s10144-006-0012-6)
 
 Touzot, L., Schermer, É., Venner, S., Delzon, S., Rousset, C., Baubet, É., Gaillard, J.-M., Gamelon, M., 2020. How does increasing mast seeding frequency affect population dynamics of seed consumers? Wild boar as a case study. Ecol. Appl. 30, [https://doi.org/10.1002/eap.2134](https://doi.org/10.1002/eap.2134)
@@ -99,6 +109,7 @@ Végh, L, Tsuyuzaki, S. 2022 Differences in canopy and understorey diversities a
 Lea Végh  
 Research Associate  
 National Institute for Environmental Studies (NIES, Japan)  
-Email: lea.vegh@nies.go.jp
+Email: lea.vegh@nies.go.jp  
+       vegh@agr.hokudai.ac.jp
 
 <img src="NIESLogo2.png"  width="50%" height="50%">  
