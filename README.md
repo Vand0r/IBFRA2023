@@ -38,7 +38,7 @@ Many animals depend on the seeds of masting species such as rodents (Shimada and
 
 **Weather conditions**
 
-In good weather conditions, the trees can produce photosynthates in optimal quantities, helping them to increase their resources for masting and everyday processes. Optimal weather conditions are often observed to preceed mast years (Drobyshev et al. 2014, Shibata et al. 2020), but there is no consensus regarding the period of importance and what constitutes good weather conditions. The game also did not include abortive weather events, commonly discussed as environmental veto (Bogdziewicz et al. 2018).
+In good weather conditions, the trees can produce photosynthates in optimal quantities, helping them to increase their resources for masting and everyday processes. Optimal weather conditions are often observed to preceed mast years (Drobyshev et al. 2014, Shibata et al. 2020), but there is no consensus regarding the period of importance and what constitutes good weather conditions. The game also does not include abortive weather events, commonly referred to as environmental veto (Bogdziewicz et al. 2018), or the effect of temperature difference among years preceeding masting (LaMontagne et al. 2021).
 
 ### Masting and climate change
 
@@ -63,6 +63,8 @@ Clark, J.S., Andrus, R., Aubry-Kientz, M., Bergeron, Y., Bogdziewicz, M., Bragg,
 Drobyshev, I., Niklasson, M., Mazerolle, M.J., Bergeron, Y., 2014. Reconstruction of a 253-year long mast record of European beech reveals its association with large scale temperature variability and no long-term trend in mast frequencies. Agric. For. Meteorol. 192–193, 9–17. [https://doi.org/10.1016/j.agrformet.2014.02.010](https://doi.org/10.1016/j.agrformet.2014.02.010)
 
 Isagi, Y., Sugimura, K., Sumida, A., Ito, H., 1997. How Does Masting Happen and Synchronize? J. Theor. Biol. 187, 231–239. [https://doi.org/10.1006/jtbi.1997.0442](https://doi.org/10.1006/jtbi.1997.0442)
+
+LaMontagne, J.M., Redmond, M.D., Wion, A.P., Greene, D.F., 2021. An assessment of temporal variability in mast seeding of North American Pinaceae. Philos. Trans. R. Soc. B Biol. Sci. 376, 20200373. [https://doi.org/10.1098/rstb.2020.0373](https://doi.org/10.1098/rstb.2020.0373)
 
 Nakamura, M., Muller, O., Tayanagi, S., Nakaji, T., Hiura, T., 2010. Experimental branch warming alters tall tree leaf phenology and acorn production. Agric. For. Meteorol. 150, 1026–1029. [https://doi.org/10.1016/j.agrformet.2010.04.001](https://doi.org/10.1016/j.agrformet.2010.04.001)
 
