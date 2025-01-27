@@ -1,6 +1,7 @@
 # Contact
 
 Lea Végh  
+
 Research Associate
 Biodiversity division
 National Institute for Environmental Studies (NIES, Japan)  
@@ -25,16 +26,22 @@ The International Union for Conservation of Nature (IUCN) has recently developed
 ![](Figure1.tif)  
 *Japanese vegetation maps corresponding to the different IUCN levels. (a) Realms, (b) Biomes, (c) EFGs, and (d) Regional subgroups. Extent indicator of the next map is marked on each map. Detailed names for the IDs on (c, d) are shown in Table 1.  Realms IDs: F – Freshwater, FM – Freshwater-Marine, MFT – Marine-Freshwater-Terrestrial, MT – Marine-Terrestrial, S – Subterranean, T – Terrestrial, TF – Terrestrial-Freshwater, Biomes IDs: F3 – Artificial wetlands, MFT1 – Brackish tidal, MT1 – Shorelines, MT2 – Supralittoral coastal, T2 – Temperate-boreal forests and woodlands, T3 – Shrublands and shrubby woodlands, T7 – Intensive land-use, TF1 – Palustrine wetlands*
 
-<img src="Figure1.tif"  width="50%" height="50%"> 
-
 ![](Figure2.jpg)  
 *Visual summary of Realms, Biomes, EFGs and Regional subgroups (RS) in Japan (Level 1-4). (a): The area of different Biomes by Realms in Japan. (b): The number of RS in each EFG, where colour indicates whether the EFG was included for Japan by Keith et al. (2023) or not. (c): The percentage of surface area of each terrestrial RS by EFGs. The name of EFG and RS IDs are shown in Table 1.*
 
-# IBFRA 2023 Conference materials
+
+# Selected past works
+
+## IBFRA 2023 Conference materials
 
 Scroll down for the poster presentation and contact information or use the side menu on the left.
 
 ## Masting in forests: a playful introduction
+
+**Our paper related to masting was published in early 2024!**
+
+Link to paper: [10.1016/j.ecolmodel.2023.110577](10.1016/j.ecolmodel.2023.110577)
+Link to press release: [https://www.nies.go.jp/whatsnew/20240222/20240222-e.html](https://www.nies.go.jp/whatsnew/20240222/20240222-e.html)
 
 *2023. Aug. 29.*
 
