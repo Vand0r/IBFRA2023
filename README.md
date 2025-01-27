@@ -1,5 +1,29 @@
-# IBFRA 2023
-Lea Végh - Conference materials
+# Contact
+
+Lea Végh  
+Research Associate
+Biodiversity division
+National Institute for Environmental Studies (NIES, Japan)  
+Email: lea.vegh@nies.go.jp 
+
+## Research interests:
+
+Forest ecology, Disturbance ecology, Remote sensing, Modelling, Renewable energy
+
+# Current work
+
+Data paper under on matching Japanese habitat categories with the international IUCN typology (under review, Ecological Research)
+
+Link to pre-print: [https://doi.org/10.22541/au.173319062.28331883/v1](https://doi.org/10.22541/au.173319062.28331883/v1)
+
+## High-resolution spatial dataset of ecosystem types in Japan classified within the IUCN global ecosystem typology scheme with new categories at the *Regional subgroups* level
+
+### Abstract
+
+The International Union for Conservation of Nature (IUCN) has recently developed a global ecosystem typology (IUCN typology) based on the functional characteristics of the ecosystems. However, its low spatial resolution and lack of recognition of certain categories in Japan limits effective and precise habitat analysis for global comparisons. In this data paper, we used the Japanese vegetation map provided by the Ministry of Environment (MOE) to align Japanese vegetation categories with the IUCN typology scheme up to Level 4, Regional subgroups, developing a correspondence table and a high-resolution spatial dataset focusing on terrestrial ecosystems. In addition, we also integrated the land-use classification developed by the National Institute for Environmental Studies. The dataset includes tables describing the integration of Japanese habitat classification with IUCN typology from Level 1 to 4 (Realms, Biomes, Ecosystem functional groups, Regional subgroups), explanation of land-use categories, and the main corresponding table as well as high-resolution integrated GIS data. This integration supports both global and local studies, with the tables including English and Japanese names of the classification tree.
+
+
+# IBFRA 2023 Conference materials
 
 Scroll down for the poster presentation and contact information or use the side menu on the left.
 
@@ -110,12 +134,6 @@ Végh, L, Tsuyuzaki, S. 2022 Differences in canopy and understorey diversities a
 I wish to thank my supervisor, Tsuyuzaki Shiro from Hokkaido University, for his help and comments during the study.
 
 
-## Contact
-
-Lea Végh  
-Research Associate  
-National Institute for Environmental Studies (NIES, Japan)  
-Email: lea.vegh@nies.go.jp  
-       vegh@agr.hokudai.ac.jp
+ 
 
 <img src="NIESLogo2.png"  width="50%" height="50%">  
