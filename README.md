@@ -1,10 +1,9 @@
 # Contact
 
 Lea Végh  
-
-Research Associate
-Biodiversity division
-National Institute for Environmental Studies (NIES, Japan)  
+Research Associate  
+Biodiversity division  
+National Institute for Environmental Studies (NIES, Japan)   
 Email: lea.vegh@nies.go.jp 
 
 ## Research interests:
