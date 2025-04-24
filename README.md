@@ -14,11 +14,11 @@ Forest ecology, Disturbance ecology, Remote sensing, Modelling, Renewable energy
 
 ## Changes in the functional species composition of forests across a wide latitudinal range in Japan
 
-**Authors**: Lea Végh<sup>a</sup>, Tetsuro Yoshikawa^b^, Yayoi Takeuchi^ac^
+**Authors**: Lea Végh<sup>a</sup>, Tetsuro Yoshikawa<sup>b</sup>, Yayoi Takeuchi<sup>ac</sup>
 
-^a^Biodiversity division, National Institute for Environmental Studies  
-^b^Graduate School of Science Department of Biology, Osaka Metropolitan University  
-^c^Graduate School of Science Laboratory of Experimental Ecology, Osaka Metropolitan University  
+<sup>a</sup>Biodiversity division, National Institute for Environmental Studies  
+<sup>b</sup>Graduate School of Science Department of Biology, Osaka Metropolitan University  
+<sup>c</sup>Graduate School of Science Laboratory of Experimental Ecology, Osaka Metropolitan University  
 
 ### Abstract
 
