@@ -28,7 +28,7 @@ How to cite: Végh, L., Takeuchi, Y., and Yoshikawa, T.: Changes in the function
 
 # In progress
 
-Data paper under on matching Japanese habitat categories with the international IUCN typology (under review, Ecological Research)
+Data paper under on matching Japanese habitat categories with the international IUCN typology (Preparing for resubmission at Ecological Research)
 
 Link to pre-print: [https://doi.org/10.22541/au.173319062.28331883/v1](https://doi.org/10.22541/au.173319062.28331883/v1)
 
