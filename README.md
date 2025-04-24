@@ -10,7 +10,22 @@ Email: lea.vegh@nies.go.jp
 
 Forest ecology, Disturbance ecology, Remote sensing, Modelling, Renewable energy
 
-# Current work
+# Current work - EGU 2025
+
+## Changes in the functional species composition of forests across a wide latitudinal range in Japan
+
+**Authors**: Lea Végh^a^, Tetsuro Yoshikawa^b^, Yayoi Takeuchi^ac^
+^a^Biodiversity division, National Institute for Environmental Studies
+^b^Graduate School of Science Department of Biology, Osaka Metropolitan University
+^c^Graduate School of Science Laboratory of Experimental Ecology, Osaka Metropolitan University
+
+### Abstract
+
+Japan has several long-term forest monitoring datasets from publications and national programmes such as the Monitoring 1000 sites and the JaLTER network. These various datasets were recently collected and organised for ease of access, resulting in observations from almost 200 plots. We analysed these data to observe long-term forest changes and assess the major factors affecting the functional composition of species over time. Tree species were classified into four plant functional groups (PFTs): boreal conifer species (BC), temperate conifer species (TC), deciduous broadleaf species (DB), and evergreen broadleaf species (EB). These PFTs can be ordered based on their latitudinal range and corresponding climatic preferences, so that from the north to the south dominance is shifting from the cold-tolerant BCs to DBs, then to warm-favouring TCs, and finally to warm-climate EBs. However, the traditional species composition might be affected by the changing climate, causing a disalignment between the functional composition of mature trees and saplings. We hypothesised that the sapling composition might shift towards warmer PFTs than those found among the mature trees, i.e.: DB saplings appearing in traditionally BC forests, and TC and EB saplings appearing in traditionally DB forests. To test this hypothesis, we analaysed species-level data from long-term forest plots with at least 20 years of observation, covering the northern-southern latitudinal range of Japan. We found that while not all plots displayed a change in PFT composition, there were many that did show a characteristic change. These changes could be seen in the increased overlap of PFTs among saplings from originally distinct forest plots, and also in the different trends of relative abundance among PFTs. However, the change could not be clearly contributed to the impact of climate change, as anthropogenic and other factors of natural disturbance had also a pronounced role in shaping the species composition of the forests. In addition to slow changes caused directly by climate change, sudden changes, attributed to herbivory, pest outbreaks, and other extreme disturbances indirectly related to climate change, were also common among the plots. Our results indicate that climate change affects forest ecosystems both directly and indirectly, with relatively quick changes once a tipping point is reached. These findings can aid future management practices to preserve the diversity and ecosystem services of the forests across a wide latitudinal range in Japan.
+
+How to cite: Végh, L., Takeuchi, Y., and Yoshikawa, T.: Changes in the functional species composition of forests across a wide latitudinal range in Japan, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-8407, https://doi.org/10.5194/egusphere-egu25-8407, 2025. 
+
+# In progress
 
 Data paper under on matching Japanese habitat categories with the international IUCN typology (under review, Ecological Research)
 
