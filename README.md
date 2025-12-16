@@ -10,23 +10,29 @@ Email: lea.vegh@nies.go.jp
 
 Forest ecology, Disturbance ecology, Remote sensing, Modelling, Renewable energy
 
-# Current work - EGU 2025
+# Current work - AGU 2025
 
-## Changes in the functional species composition of forests across a wide latitudinal range in Japan
+## Where the Acorns Fall – Connecting Masting and Foraging Behavior of Animals
 
-**Authors**: Lea Végh<sup>a</sup>, Tetsuro Yoshikawa<sup>b</sup>, Yayoi Takeuchi<sup>ac</sup>
+**Authors**: Lea Végh<sup>a</sup>, Tomomichi Kato<sup>b</sup>
 
 <sup>a</sup>Biodiversity division, National Institute for Environmental Studies  
-<sup>b</sup>Graduate School of Science Department of Biology, Osaka Metropolitan University  
-<sup>c</sup>Graduate School of Science Laboratory of Experimental Ecology, Osaka Metropolitan University  
+<sup>b</sup>Research Faculty of Agriculture, Hokkaido University  
 
 ### Abstract
 
-Japan has several long-term forest monitoring datasets from publications and national programmes such as the Monitoring 1000 sites and the JaLTER network. These various datasets were recently collected and organised for ease of access, resulting in observations from almost 200 plots. We analysed these data to observe long-term forest changes and assess the major factors affecting the functional composition of species over time. Tree species were classified into four plant functional groups (PFTs): boreal conifer species (BC), temperate conifer species (TC), deciduous broadleaf species (DB), and evergreen broadleaf species (EB). These PFTs can be ordered based on their latitudinal range and corresponding climatic preferences, so that from the north to the south dominance is shifting from the cold-tolerant BCs to DBs, then to warm-favouring TCs, and finally to warm-climate EBs. However, the traditional species composition might be affected by the changing climate, causing a disalignment between the functional composition of mature trees and saplings. We hypothesised that the sapling composition might shift towards warmer PFTs than those found among the mature trees, i.e.: DB saplings appearing in traditionally BC forests, and TC and EB saplings appearing in traditionally DB forests. To test this hypothesis, we analaysed species-level data from long-term forest plots with at least 20 years of observation, covering the northern-southern latitudinal range of Japan. We found that while not all plots displayed a change in PFT composition, there were many that did show a characteristic change. These changes could be seen in the increased overlap of PFTs among saplings from originally distinct forest plots, and also in the different trends of relative abundance among PFTs. However, the change could not be clearly contributed to the impact of climate change, as anthropogenic and other factors of natural disturbance had also a pronounced role in shaping the species composition of the forests. In addition to slow changes caused directly by climate change, sudden changes, attributed to herbivory, pest outbreaks, and other extreme disturbances indirectly related to climate change, were also common among the plots. Our results indicate that climate change affects forest ecosystems both directly and indirectly, with relatively quick changes once a tipping point is reached. These findings can aid future management practices to preserve the diversity and ecosystem services of the forests across a wide latitudinal range in Japan.
+The number of wildlife conflicts, ranging from crop damage to fatal encounters, is prone to increase in years when animals cannot find enough food in their natural habitats. Forest animals often involved in these conflicts are deer, boars, and bears, which forage on the seeds of oaks and beech of the Fagaceae family, acorns and nuts. These tree species have a special reproduction pattern called masting, where trees synchronize their flowering spatio-temporally, resulting in an irregular seed production pattern across the years. High-yield years, called mast years, are generally followed by several low-yield years up until the recent decades. However, climate change affects the masting behavior of these species, and thus indirectly influences the foraging behavior of forest animals, which can lead to increased human-wildlife conflicts.  
+These conflicts could be better anticipated if the movement of animals is understood in relation to masting. This study aims to address this issue by observing the frequency and duration of animal visitation to locations with high and low acorn yields. 12 camera traps were installed in three forests across Japan, where long-term data of seed production and tree census were available. The cameras were deployed during the spring and fall periods for 2-2 months, to observe foraging behavior during the time of flower/leaf flush and fall of seeds, respectively. At each site, 4 locations were chosen based on past seed production, with 2 cameras placed at high and 2 cameras placed at low seed production locations.  
+Camera traps were the most efficient when understory vegetation was naturally sparse, and least effective after snowmelt at the northern locations, where cameras were obstructed by dwarf bamboo. Animals were observed at almost all traps, ranging from rodents to deer and boars. Deer were the most frequently observed animal across multiple sites, and many of them expressed foraging behavior such as searching the ground. Visiting time and frequency during spring showed weak correlation with past seed yield, indicating low preference for feeding on flowers, and shifting the focus to the fall season.  
+We plan to connect the results of the study to models of masting within the Fagaceae family, where future simulations under different climate scenarios can help to predict changes in animal behavior.
 
-How to cite: Végh, L., Takeuchi, Y., and Yoshikawa, T.: Changes in the functional species composition of forests across a wide latitudinal range in Japan, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-8407, https://doi.org/10.5194/egusphere-egu25-8407, 2025. 
+How to cite: Végh, L., Kato, T.: Where the Acorns Fall – Connecting Masting and Foraging Behavior of Animals, AGU General Assembly 2025, New Orleans, US, 15-19 Dec 2025, Oral presentation (B12F-05)
+
+
 
 # In progress
+
+** Soon to be resubmitted! Lot's of changes happened, we shifted from Level 4 to Level 6 as it is more suitable for national level categories. Stay tuned.**
 
 Data paper under on matching Japanese habitat categories with the international IUCN typology (Preparing for resubmission at Ecological Research)
 
@@ -46,6 +52,20 @@ The International Union for Conservation of Nature (IUCN) has recently developed
 
 
 # Selected past works
+
+## EGU 2025 -  Changes in the functional species composition of forests across a wide latitudinal range in Japan
+
+**Authors**: Lea Végh<sup>a</sup>, Tetsuro Yoshikawa<sup>b</sup>, Yayoi Takeuchi<sup>ac</sup>
+
+<sup>a</sup>Biodiversity division, National Institute for Environmental Studies  
+<sup>b</sup>Graduate School of Science Department of Biology, Osaka Metropolitan University  
+<sup>c</sup>Graduate School of Science Laboratory of Experimental Ecology, Osaka Metropolitan University  
+
+### Abstract
+
+Japan has several long-term forest monitoring datasets from publications and national programmes such as the Monitoring 1000 sites and the JaLTER network. These various datasets were recently collected and organised for ease of access, resulting in observations from almost 200 plots. We analysed these data to observe long-term forest changes and assess the major factors affecting the functional composition of species over time. Tree species were classified into four plant functional groups (PFTs): boreal conifer species (BC), temperate conifer species (TC), deciduous broadleaf species (DB), and evergreen broadleaf species (EB). These PFTs can be ordered based on their latitudinal range and corresponding climatic preferences, so that from the north to the south dominance is shifting from the cold-tolerant BCs to DBs, then to warm-favouring TCs, and finally to warm-climate EBs. However, the traditional species composition might be affected by the changing climate, causing a disalignment between the functional composition of mature trees and saplings. We hypothesised that the sapling composition might shift towards warmer PFTs than those found among the mature trees, i.e.: DB saplings appearing in traditionally BC forests, and TC and EB saplings appearing in traditionally DB forests. To test this hypothesis, we analaysed species-level data from long-term forest plots with at least 20 years of observation, covering the northern-southern latitudinal range of Japan. We found that while not all plots displayed a change in PFT composition, there were many that did show a characteristic change. These changes could be seen in the increased overlap of PFTs among saplings from originally distinct forest plots, and also in the different trends of relative abundance among PFTs. However, the change could not be clearly contributed to the impact of climate change, as anthropogenic and other factors of natural disturbance had also a pronounced role in shaping the species composition of the forests. In addition to slow changes caused directly by climate change, sudden changes, attributed to herbivory, pest outbreaks, and other extreme disturbances indirectly related to climate change, were also common among the plots. Our results indicate that climate change affects forest ecosystems both directly and indirectly, with relatively quick changes once a tipping point is reached. These findings can aid future management practices to preserve the diversity and ecosystem services of the forests across a wide latitudinal range in Japan.
+
+How to cite: Végh, L., Takeuchi, Y., and Yoshikawa, T.: Changes in the functional species composition of forests across a wide latitudinal range in Japan, EGU General Assembly 2025, Vienna, Austria, 27 Apr–2 May 2025, EGU25-8407, https://doi.org/10.5194/egusphere-egu25-8407, 2025. 
 
 ## IBFRA 2023 Conference materials
 
