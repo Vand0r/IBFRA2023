@@ -33,8 +33,10 @@ How to cite: Végh, L., Kato, T.: Where the Acorns Fall – Connecting Masting a
 ![](GraphAbstr.png) 
 
 **Some animal captures**
-<img src="Uryu_Fall_High_Cam5_deer.gif">
-![Deer](Uryu_Fall_High_Cam5_deer.gif) 
+
+![Deer](Uryu_Spring_LowTr1E_shika_2.gif) 
+![Racoon](Uryu_Spring_LowTr1E_racoon.gif) 
+![Bear](Chib_Fall_LowTr13_bear.gif) 
 
 # In progress
 
