@@ -29,6 +29,10 @@ We plan to connect the results of the study to models of masting within the Faga
 How to cite: Végh, L., Kato, T.: Where the Acorns Fall – Connecting Masting and Foraging Behavior of Animals, AGU General Assembly 2025, New Orleans, US, 15-19 Dec 2025, Oral presentation (B12F-05)
 
 
+![](GraphAbstr.png) 
+
+
+![](Uryu_Fall_High_Cam5_deer.gif) 
 
 # In progress
 
