@@ -43,7 +43,7 @@ How to cite: Végh, L., Kato, T.: Where the Acorns Fall – Connecting Masting a
 ![](Where_acorns_Vegh.png) 
 
 
-# In progress
+# In progress - IUCN GET in Japan
 
 **Soon to be resubmitted! Lot's of changes happened, we shifted from Level 4 to Level 6 as it is more suitable for national level categories. Stay tuned.**
 
@@ -70,20 +70,24 @@ The International Union for Conservation of Nature (IUCN) has recently developed
 
 ## Publications
 
-Takeuchi, Y., Végh, L., Noda, H., Böttcher, K., Vihervaara, P., Kass, J. M., Hama, I., & Saito, Y. (2025). National-scale terrestrial biodiversity and ecosystem monitoring with essential biodiversity variables in Japan and Finland. Ecological Research, 40(6), e70011. https://doi.org/10.1111/1440-1703.70011
+Takeuchi, Y., Végh, L., Noda, H., Böttcher, K., Vihervaara, P., Kass, J. M., Hama, I., & Saito, Y. (2025). National-scale terrestrial biodiversity and ecosystem monitoring with essential biodiversity variables in Japan and Finland. Ecological Research, 40(6), e70011. [https://doi.org/10.1111/1440-1703.70011](https://doi.org/10.1111/1440-1703.70011)
 
-Végh, L., & Kato, T. (2024). Modified SEIB-DGVM enables simulation of masting in a temperate forest. Ecological Modelling, 488, 110577. https://doi.org/10.1016/j.ecolmodel.2023.110577
+Végh, L., & Kato, T. (2024). Modified SEIB-DGVM enables simulation of masting in a temperate forest. Ecological Modelling, 488, 110577. [https://doi.org/10.1016/j.ecolmodel.2023.110577](https://doi.org/10.1016/j.ecolmodel.2023.110577)
 
-Ninomiya, H., Kato, T., Végh, L., & Wu, L. (2023). Modeling of non-structural carbohydrate dynamics by the spatially explicit individual-based dynamic global vegetation model SEIB-DGVM (SEIB-DGVM-NSC version 1.0). Geoscientific Model Development, 16(14), 4155–4170. https://doi.org/10.5194/gmd-16-4155-2023
+Ninomiya, H., Kato, T., Végh, L., & Wu, L. (2023). Modeling of non-structural carbohydrate dynamics by the spatially explicit individual-based dynamic global vegetation model SEIB-DGVM (SEIB-DGVM-NSC version 1.0). Geoscientific Model Development, 16(14), 4155–4170. [https://doi.org/10.5194/gmd-16-4155-2023](https://doi.org/10.5194/gmd-16-4155-2023)
 
-Végh, L., & Tsuyuzaki, S. (2022). Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan—Impacts of early forest management. Forest Ecology and Management, 510, 120106. https://doi.org/10.1016/j.foreco.2022.120106
+Végh, L., & Tsuyuzaki, S. (2022). Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan—Impacts of early forest management. Forest Ecology and Management, 510, 120106. [https://doi.org/10.1016/j.foreco.2022.120106](https://doi.org/10.1016/j.foreco.2022.120106)
 
-Végh, L., & Tsuyuzaki, S. (2021). Remote sensing of forest diversities: The effect of image resolution and spectral plot extent. International Journal of Remote Sensing, 42(15), 5985–6002. https://doi.org/10.1080/01431161.2021.1934596
+Végh, L., & Tsuyuzaki, S. (2021). Remote sensing of forest diversities: The effect of image resolution and spectral plot extent. International Journal of Remote Sensing, 42(15), 5985–6002. [https://doi.org/10.1080/01431161.2021.1934596](https://doi.org/10.1080/01431161.2021.1934596)
 
-Végh, L., & Tsuyuzaki, S. (2021). Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research, 36(2), 329–339. https://doi.org/10.1111/1440-1703.12199
+Végh, L., & Tsuyuzaki, S. (2021). Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research, 36(2), 329–339. [https://doi.org/10.1111/1440-1703.12199](https://doi.org/10.1111/1440-1703.12199)
 
 
-## EGU 2025 -  Changes in the functional species composition of forests across a wide latitudinal range in Japan
+## EGU 2025 
+
+<p style="font-size: 120%; font-weight: bold; margin-top: 1em;">
+Changes in the functional species composition of forests across a wide latitudinal range in Japan
+</p>
 
 **Authors**: Lea Végh<sup>a</sup>, Tetsuro Yoshikawa<sup>b</sup>, Yayoi Takeuchi<sup>ac</sup>
 
@@ -106,6 +110,7 @@ Scroll down for the poster presentation and contact information or use the side 
 **Our paper related to masting was published in early 2024!**
 
 Link to paper: [10.1016/j.ecolmodel.2023.110577](10.1016/j.ecolmodel.2023.110577)
+
 Link to press release: [https://www.nies.go.jp/whatsnew/20240222/20240222-e.html](https://www.nies.go.jp/whatsnew/20240222/20240222-e.html)
 
 *2023. Aug. 29.*
