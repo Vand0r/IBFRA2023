@@ -40,7 +40,7 @@ How to cite: Végh, L., Kato, T.: Where the Acorns Fall – Connecting Masting a
 
 ## Poster summary
 
-![](Where_acorns_Vegh.pdf) 
+![](Where_acorns_Vegh.png) 
 
 
 # In progress
@@ -51,7 +51,9 @@ Data paper under on matching Japanese habitat categories with the international 
 
 Link to pre-print: [https://doi.org/10.22541/au.173319062.28331883/v1](https://doi.org/10.22541/au.173319062.28331883/v1)
 
-## High-resolution spatial dataset of ecosystem types in Japan classified within the IUCN global ecosystem typology scheme with new categories at the *Regional subgroups* level
+<p style="font-size: 150%; font-weight: bold; margin-top: 1em;">
+High-resolution spatial dataset of ecosystem types in Japan classified within the IUCN global ecosystem typology scheme with new categories at the *Regional subgroups* level
+</p>
 
 **Abstract**
 
@@ -65,6 +67,21 @@ The International Union for Conservation of Nature (IUCN) has recently developed
 
 
 # Selected past works
+
+## Publications
+
+Takeuchi, Y., Végh, L., Noda, H., Böttcher, K., Vihervaara, P., Kass, J. M., Hama, I., & Saito, Y. (2025). National-scale terrestrial biodiversity and ecosystem monitoring with essential biodiversity variables in Japan and Finland. Ecological Research, 40(6), e70011. https://doi.org/10.1111/1440-1703.70011
+
+Végh, L., & Kato, T. (2024). Modified SEIB-DGVM enables simulation of masting in a temperate forest. Ecological Modelling, 488, 110577. https://doi.org/10.1016/j.ecolmodel.2023.110577
+
+Ninomiya, H., Kato, T., Végh, L., & Wu, L. (2023). Modeling of non-structural carbohydrate dynamics by the spatially explicit individual-based dynamic global vegetation model SEIB-DGVM (SEIB-DGVM-NSC version 1.0). Geoscientific Model Development, 16(14), 4155–4170. https://doi.org/10.5194/gmd-16-4155-2023
+
+Végh, L., & Tsuyuzaki, S. (2022). Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan—Impacts of early forest management. Forest Ecology and Management, 510, 120106. https://doi.org/10.1016/j.foreco.2022.120106
+
+Végh, L., & Tsuyuzaki, S. (2021). Remote sensing of forest diversities: The effect of image resolution and spectral plot extent. International Journal of Remote Sensing, 42(15), 5985–6002. https://doi.org/10.1080/01431161.2021.1934596
+
+Végh, L., & Tsuyuzaki, S. (2021). Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research, 36(2), 329–339. https://doi.org/10.1111/1440-1703.12199
+
 
 ## EGU 2025 -  Changes in the functional species composition of forests across a wide latitudinal range in Japan
 
@@ -103,7 +120,9 @@ Following the example of the European Geosciences Union’s Games Jam sessions, 
 
 *Typical masting pattern over the years. Yellow arrows mark mast years.*
 
-<h3>What drives masting?</h3>
+<p style="font-size: 120%; font-weight: bold; margin-top: 1em;">
+What drives masting?
+</p>
 
 It is still not clearly understood what drives masting and how do plants synchronize their flowering efforts over large areas. The game I created for the presentation picked elements from popular masting theories: the resource budget hypothesis, the pollen limitation hypothesis, and the predator satiation hypothesis, combined with the impact of weather when accummulating resources. Apart from oaks, which were used in the game, many other species display masting patterns (e.g. beech, chestnut, pine trees), differing in their processes and sensitivity to changes.
 
@@ -126,17 +145,22 @@ Many animals depend on the seeds of masting species such as rodents (Shimada and
 
 In good weather conditions, the trees can produce photosynthates in optimal quantities, helping them to increase their resources for masting and everyday processes. Optimal weather conditions are often observed to preceed mast years (Drobyshev et al. 2014, Shibata et al. 2020), but there is no consensus regarding the period of importance and what constitutes good weather conditions. The game also does not include abortive weather events, commonly referred to as environmental veto (Bogdziewicz et al. 2018), or the effect of temperature difference among years preceeding masting (LaMontagne et al. 2021).
 
-### Masting and climate change
+<p style="font-size: 120%; font-weight: bold; margin-top: 1em;">
+Masting and climate change
+</p>
 
 Climate change influences the fecundity of trees (Clark et al. 2021) and masting patterns are also changing depending on the species and location. Oaks were observed to increase the frequency of mast years (Shibata et al. 2020) and produce more acorns with warmer temperatures (Nakamura et al. 2010). However, more frequent mast years cause the number of predators to be continuously high, decreasing the number of seeds which escapes predation (Bogdziewicz et al. 2020). In the version of the game we played during the presentation, the impacts of climate change were not included, but they can be added easily for future games.
 
-### Further research
+<p style="font-size: 120%; font-weight: bold; margin-top: 1em;">
+Further research
+</p>
 
-We are working to incorporate masting into a global dynamic vegetation model, called SEIB-DGVM (Sato et al. 2007). Preliminary results show that mimicking the resource budget hypothesis coupling with pollen limitation could reproduce masting characteristics of the oak (*Quercus crispula*) at our validation site. In the next steps, we will expand the model to cover first Japan, then the Northern Hemisphere. The development of the masting model is done together with Kato Tomomichi from Hokkaido University, who introduced me to the mysterieus world of masting. For more information, find my contact information at the bottom of the page.
+In the next steps, we will expand the model to cover first Japan, then the Northern Hemisphere. The development of the masting model is done together with Kato Tomomichi from Hokkaido University, who introduced me to the mysterieus world of masting. For more information, find my contact information at the bottom of the page.
 
 
-
-### References-presentation
+<p style="font-size: 120%; font-weight: bold; margin-top: 1em;">
+References-presentation
+</p>
 
 Barrere, J., Boulanger, V., Collet, C., Walker, E., Siat, V., Henry, L., Saïd, S., 2020. How does oak mast seeding affect the feeding behavior of sympatric red and roe deer? Basic Appl. Ecol. 47, 83–94. [https://doi.org/10.1016/j.baae.2020.04.006](https://doi.org/10.1016/j.baae.2020.04.006)
 
@@ -181,21 +205,28 @@ Abstract, Poster, and References
 
 Large scale disturbances, such as volcanic eruptions and open mining operations, often completely erase the vegetation cover and destroy soil communities, prompting primary succession. Primary succession is a slow process, and many years are needed until the vegetation grows strong enough to prevent landslides or flash floods from runoff precipitation. To reduce the risks of such events, active interventions, such as revegetation by planting trees in critical areas, can accelerate the development of vegetation cover. However, these artificial plantations might foster different plant communities and species diversities compared to naturally recovered forests, resulting in long-term negative impacts in exchange for short-term positive ones. Is there a better approach which maximizes recovery speed but retains advantages of natural succession? By investigating vegetation patch dynamics and comparing plant species diversities and communities among several forest types after volcanic eruptions, I propose that planting trees and shrubs in patches near each other fosters quick recovery and native species composition. Observations at the volcano Mount Usu (Hokkaido, Japan), showed that in the early stages of recovery, natural vegetation patches expanded faster and had denser vegetation if they were clustered close to each other. Similarly, plantations with patch-like design encouraged the establishment of native species, by protecting fresh recruits from the harsh environment in the open spaces between the planted trees, resulting in higher species diversity and native species composition. Although the planted tree species changed canopy composition compared to natural forests, the understorey layer trended toward natural species compositions if appropriate species were selected during the planting phase. In summary, if quick recovery is desired after large scale disturbances, spatially heterogeneous, patchy planting design are better than dense, homogeneous plantations in reaching natural species compositions and diversities.
 
-### Poster
+**Poster**
 
 ![](IBFRA_2023_Disturbance_0821.png)
 
-### References-poster
+<p style="font-size: 120%; font-weight: bold; margin-top: 1em;">
+References-poster
+</p>
 
 Végh, L, Tsuyuzaki, S. 2021 Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research. 1– 11. [https://doi.org/10.1111/1440-1703.12199](https://doi.org/10.1111/1440-1703.12199)
 
 Végh, L, Tsuyuzaki, S. 2022 Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan — Impacts of early forest management. Forest Ecology and management. 510. [https://doi.org/10.1016/j.foreco.2022.120106](https://doi.org/10.1016/j.foreco.2022.120106)
 
-### Acknowledgements
+<p style="font-size: 120%; font-weight: bold; margin-top: 1em;">
+Acknowledgements
+</p>
 
 I wish to thank my supervisor, Tsuyuzaki Shiro from Hokkaido University, for his help and comments during the study.
 
 
  
 
+<!--
 <img src="NIESLogo2.png"  width="50%" height="50%">  
+-->
+
