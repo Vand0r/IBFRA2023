@@ -43,11 +43,13 @@ How to cite: Végh, L., Kato, T.: Where the Acorns Fall – Connecting Masting a
 ![](Where_acorns_Vegh.png) 
 
 
-# In progress - IUCN GET in Japan
+# In progress
 
-**Soon to be resubmitted! Lot's of changes happened, we shifted from Level 4 to Level 6 as it is more suitable for national level categories. Stay tuned.**
+## IUCN GET in Japan
 
-Data paper under on matching Japanese habitat categories with the international IUCN typology (Preparing for resubmission at Ecological Research)
+**2025 December: Soon to be resubmitted! Lot's of changes happened, we shifted from Level 4 to Level 6 as it is more suitable for national level categories. Stay tuned.**
+
+Data paper under on matching Japanese habitat categories with the international IUCN ecosystem typology (Preparing for resubmission at Ecological Research)
 
 Link to pre-print: [https://doi.org/10.22541/au.173319062.28331883/v1](https://doi.org/10.22541/au.173319062.28331883/v1)
 
@@ -64,6 +66,10 @@ The International Union for Conservation of Nature (IUCN) has recently developed
 
 ![](Figure2.jpg)  
 *Visual summary of Realms, Biomes, EFGs and Regional subgroups (RS) in Japan (Level 1-4). (a): The area of different Biomes by Realms in Japan. (b): The number of RS in each EFG, where colour indicates whether the EFG was included for Japan by Keith et al. (2023) or not. (c): The percentage of surface area of each terrestrial RS by EFGs. The name of EFG and RS IDs are shown in Table 1.*
+
+## UGA in Megacities
+
+We are preparing an analysis comparing urban green areas in Tokyo and Bangkok, focusing on their potential as biodiversity refuge and providing ecosystem services. This research in part of a larger effort by APBON, the Asia-Pacific Biodiversity Observation Network, trying to map challenges faced by the region in contrast to European or North-American landscapes.
 
 
 # Selected past works
