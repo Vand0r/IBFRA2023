@@ -19,7 +19,7 @@ Forest ecology, Disturbance ecology, Remote sensing, Modelling, Renewable energy
 <sup>a</sup>Biodiversity division, National Institute for Environmental Studies  
 <sup>b</sup>Research Faculty of Agriculture, Hokkaido University  
 
-### Abstract
+**Abstract**
 
 The number of wildlife conflicts, ranging from crop damage to fatal encounters, is prone to increase in years when animals cannot find enough food in their natural habitats. Forest animals often involved in these conflicts are deer, boars, and bears, which forage on the seeds of oaks and beech of the Fagaceae family, acorns and nuts. These tree species have a special reproduction pattern called masting, where trees synchronize their flowering spatio-temporally, resulting in an irregular seed production pattern across the years. High-yield years, called mast years, are generally followed by several low-yield years up until the recent decades. However, climate change affects the masting behavior of these species, and thus indirectly influences the foraging behavior of forest animals, which can lead to increased human-wildlife conflicts.  
 These conflicts could be better anticipated if the movement of animals is understood in relation to masting. This study aims to address this issue by observing the frequency and duration of animal visitation to locations with high and low acorn yields. 12 camera traps were installed in three forests across Japan, where long-term data of seed production and tree census were available. The cameras were deployed during the spring and fall periods for 2-2 months, to observe foraging behavior during the time of flower/leaf flush and fall of seeds, respectively. At each site, 4 locations were chosen based on past seed production, with 2 cameras placed at high and 2 cameras placed at low seed production locations.  
@@ -38,6 +38,11 @@ How to cite: Végh, L., Kato, T.: Where the Acorns Fall – Connecting Masting a
 ![Racoon](Uryu_Spring_LowTr1E_racoon.gif) 
 ![Bear](Chib_Fall_LowTr13_bear.gif) 
 
+## Poster summary
+
+![](Where_acorns_Vegh.pdf) 
+
+
 # In progress
 
 **Soon to be resubmitted! Lot's of changes happened, we shifted from Level 4 to Level 6 as it is more suitable for national level categories. Stay tuned.**
@@ -48,7 +53,7 @@ Link to pre-print: [https://doi.org/10.22541/au.173319062.28331883/v1](https://d
 
 ## High-resolution spatial dataset of ecosystem types in Japan classified within the IUCN global ecosystem typology scheme with new categories at the *Regional subgroups* level
 
-### Abstract
+**Abstract**
 
 The International Union for Conservation of Nature (IUCN) has recently developed a global ecosystem typology (IUCN typology) based on the functional characteristics of the ecosystems. However, its low spatial resolution and lack of recognition of certain categories in Japan limits effective and precise habitat analysis for global comparisons. In this data paper, we used the Japanese vegetation map provided by the Ministry of Environment (MOE) to align Japanese vegetation categories with the IUCN typology scheme up to Level 4, *Regional subgroups*, developing a correspondence table and a high-resolution spatial dataset focusing on terrestrial ecosystems. In addition, we also integrated the land-use classification developed by the National Institute for Environmental Studies. The dataset includes tables describing the integration of Japanese habitat classification with IUCN typology from Level 1 to 4 (*Realms, Biomes, Ecosystem functional groups, Regional subgroups*), explanation of land-use categories, and the main corresponding table as well as high-resolution integrated GIS data. This integration supports both global and local studies, with the tables including English and Japanese names of the classification tree.
 
@@ -69,7 +74,7 @@ The International Union for Conservation of Nature (IUCN) has recently developed
 <sup>b</sup>Graduate School of Science Department of Biology, Osaka Metropolitan University  
 <sup>c</sup>Graduate School of Science Laboratory of Experimental Ecology, Osaka Metropolitan University  
 
-### Abstract
+**Abstract**
 
 Japan has several long-term forest monitoring datasets from publications and national programmes such as the Monitoring 1000 sites and the JaLTER network. These various datasets were recently collected and organised for ease of access, resulting in observations from almost 200 plots. We analysed these data to observe long-term forest changes and assess the major factors affecting the functional composition of species over time. Tree species were classified into four plant functional groups (PFTs): boreal conifer species (BC), temperate conifer species (TC), deciduous broadleaf species (DB), and evergreen broadleaf species (EB). These PFTs can be ordered based on their latitudinal range and corresponding climatic preferences, so that from the north to the south dominance is shifting from the cold-tolerant BCs to DBs, then to warm-favouring TCs, and finally to warm-climate EBs. However, the traditional species composition might be affected by the changing climate, causing a disalignment between the functional composition of mature trees and saplings. We hypothesised that the sapling composition might shift towards warmer PFTs than those found among the mature trees, i.e.: DB saplings appearing in traditionally BC forests, and TC and EB saplings appearing in traditionally DB forests. To test this hypothesis, we analaysed species-level data from long-term forest plots with at least 20 years of observation, covering the northern-southern latitudinal range of Japan. We found that while not all plots displayed a change in PFT composition, there were many that did show a characteristic change. These changes could be seen in the increased overlap of PFTs among saplings from originally distinct forest plots, and also in the different trends of relative abundance among PFTs. However, the change could not be clearly contributed to the impact of climate change, as anthropogenic and other factors of natural disturbance had also a pronounced role in shaping the species composition of the forests. In addition to slow changes caused directly by climate change, sudden changes, attributed to herbivory, pest outbreaks, and other extreme disturbances indirectly related to climate change, were also common among the plots. Our results indicate that climate change affects forest ecosystems both directly and indirectly, with relatively quick changes once a tipping point is reached. These findings can aid future management practices to preserve the diversity and ecosystem services of the forests across a wide latitudinal range in Japan.
 
@@ -79,7 +84,7 @@ How to cite: Végh, L., Takeuchi, Y., and Yoshikawa, T.: Changes in the function
 
 Scroll down for the poster presentation and contact information or use the side menu on the left.
 
-## Masting in forests: a playful introduction
+### Masting in forests: a playful introduction
 
 **Our paper related to masting was published in early 2024!**
 
@@ -90,7 +95,7 @@ Link to press release: [https://www.nies.go.jp/whatsnew/20240222/20240222-e.html
 
 Here is some background information to better understand the game played during the presentation. The game borrowed elements from various studies described below, but freely modified and quantified certain parts to facilitate quick and easy flow.
 
-### Abstract
+**Abstract**
 
 Following the example of the European Geosciences Union’s Games Jam sessions, I intend to use a little game to introduce masting to the attendants of the session. Masting is the intermittent, irregular seed production of certain plant species, such as oaks, beech, and chestnuts in the Fagaceae family. In some years, called mast years, these species produce many seeds, while in other years they produce few or none. Although the scientific background of masting is still debated, it is influenced by the weather and the synchrony of flowering in the forest, which influence available resources for masting and pollination efficiency. Each attendant, or player, will represent an individual oak tree in the forest and in each round, or year, accumulate resources depending on the weather in that year. In each round, the players decide individually whether to use these resources for growth, for flowering, or for storage. If the players manage to coordinate their flowering efforts, the flowers will turn into acorns. However, if too much acorn is produced, the population of species living on acorns will also increase, decimating the number of healthy acorns. The aim of the game is to maintain the intensity and frequency of mast years in the forests by cooperating with other players. As climate change affects masting via changes in the start and length of the growing season, the players can try out different climate scenarios and see in which one it is the most difficult to maintain masting patterns.
 
@@ -98,7 +103,7 @@ Following the example of the European Geosciences Union’s Games Jam sessions, 
 
 *Typical masting pattern over the years. Yellow arrows mark mast years.*
 
-### What drives masting?
+<h3>What drives masting?</h3>
 
 It is still not clearly understood what drives masting and how do plants synchronize their flowering efforts over large areas. The game I created for the presentation picked elements from popular masting theories: the resource budget hypothesis, the pollen limitation hypothesis, and the predator satiation hypothesis, combined with the impact of weather when accummulating resources. Apart from oaks, which were used in the game, many other species display masting patterns (e.g. beech, chestnut, pine trees), differing in their processes and sensitivity to changes.
 
@@ -166,13 +171,13 @@ Shimada, T., Saitoh, T., 2006. Re-evaluation of the relationship between rodent 
 Touzot, L., Schermer, É., Venner, S., Delzon, S., Rousset, C., Baubet, É., Gaillard, J.-M., Gamelon, M., 2020. How does increasing mast seeding frequency affect population dynamics of seed consumers? Wild boar as a case study. Ecol. Appl. 30, [https://doi.org/10.1002/eap.2134](https://doi.org/10.1002/eap.2134)
 
 
-## Recovery after large scale disturbances: the power of vegetation patches
+### Recovery after large scale disturbances: the power of vegetation patches
 
 *2023. Aug. 30.*
 
 Abstract, Poster, and References
 
-### Abstract
+**Abstract**
 
 Large scale disturbances, such as volcanic eruptions and open mining operations, often completely erase the vegetation cover and destroy soil communities, prompting primary succession. Primary succession is a slow process, and many years are needed until the vegetation grows strong enough to prevent landslides or flash floods from runoff precipitation. To reduce the risks of such events, active interventions, such as revegetation by planting trees in critical areas, can accelerate the development of vegetation cover. However, these artificial plantations might foster different plant communities and species diversities compared to naturally recovered forests, resulting in long-term negative impacts in exchange for short-term positive ones. Is there a better approach which maximizes recovery speed but retains advantages of natural succession? By investigating vegetation patch dynamics and comparing plant species diversities and communities among several forest types after volcanic eruptions, I propose that planting trees and shrubs in patches near each other fosters quick recovery and native species composition. Observations at the volcano Mount Usu (Hokkaido, Japan), showed that in the early stages of recovery, natural vegetation patches expanded faster and had denser vegetation if they were clustered close to each other. Similarly, plantations with patch-like design encouraged the establishment of native species, by protecting fresh recruits from the harsh environment in the open spaces between the planted trees, resulting in higher species diversity and native species composition. Although the planted tree species changed canopy composition compared to natural forests, the understorey layer trended toward natural species compositions if appropriate species were selected during the planting phase. In summary, if quick recovery is desired after large scale disturbances, spatially heterogeneous, patchy planting design are better than dense, homogeneous plantations in reaching natural species compositions and diversities.
 
