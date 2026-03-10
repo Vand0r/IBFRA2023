@@ -12,7 +12,7 @@ Forest ecology, Disturbance ecology, Remote sensing, Modelling, Renewable energy
 
 # Current work - ESJ 2026
 
-## Trees on the move:how climate change affects the functional species composition of forests in Japan
+## Trees on the move: how climate change affects the functional species composition of forests in Japan
 
 **Authors**: Lea Végh<sup>a</sup>, Tetsuro Yoshikawa<sup>b</sup>, Yayoi Takeuchi<sup>ac</sup>
 
@@ -40,7 +40,7 @@ How to cite: Végh, L., Yoshikawa, T. and Takeuchi, Y.: Trees on the move:how c
 
 
 <p style="font-size: 150%; font-weight: bold; margin-top: 1em;">
-Integrating the Japanese vegetation categories and the IUCN global ecosystem typology - a high resolution, terrestrial ecosystem dataset defining <i>Subglobal ecosystem types</i> under *Ecosystem functional groups*
+Integrating the Japanese vegetation categories and the IUCN global ecosystem typology - a high resolution, terrestrial ecosystem dataset defining <i>Subglobal ecosystem types</i> under <i>Ecosystem functional groups</i>
 </p>
 
 Link to pre-print: [https://doi.org/10.22541/au.177269411.19684440/v1](https://doi.org/10.22541/au.177269411.19684440/v1)
