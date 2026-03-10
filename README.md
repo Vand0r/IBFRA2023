@@ -60,8 +60,8 @@ The International Union for Conservation of Nature has recently developed a glob
 
 We are preparing an analysis comparing urban green areas in Tokyo and Bangkok, focusing on their potential as biodiversity refuge and providing ecosystem services. This research is part of a larger effort by APBON, the Asia-Pacific Biodiversity Observation Network, trying to map challenges faced by the region in contrast to European or North-American landscapes.
 
-<img src="Figure1.tif">
-*Comparison of urban green areas in Tokyo and Bangkok*
+<img src="Layout_Violin_Feb20.tif">
+*Comparison of urban green areas in Tokyo and Bangkok and the role of Places of Worship (PofW)*
 
 
 # Selected past works
