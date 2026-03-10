@@ -10,9 +10,81 @@ Email: lea.vegh@nies.go.jp
 
 Forest ecology, Disturbance ecology, Remote sensing, Modelling, Renewable energy
 
-# Current work - AGU 2025
+# Current work - ESJ 2026
 
-## Where the Acorns Fall – Connecting Masting and Foraging Behavior of Animals
+## Trees on the move:how climate change affects the functional species composition of forests in Japan
+
+**Authors**: Lea Végh<sup>a</sup>, Tetsuro Yoshikawa<sup>b</sup>, Yayoi Takeuchi<sup>ac</sup>
+
+<sup>a</sup>Biodiversity division, National Institute for Environmental Studies  
+<sup>b</sup>Graduate School of Science Department of Biology, Osaka Metropolitan University  
+<sup>c</sup>Graduate School of Science Laboratory of Experimental Ecology, Osaka Metropolitan University  
+
+**Abstract**
+
+Temperature, precipitation and other environmental patterns change fast due to climate change. This rapid change might cause problems for tree species which can only shift their distribution range slowly. To see how the functional species composition of forests reacts to climate change across Japan, we analysed long-term monitoring data from forest plots across the country. We expected warm favouring plant functional types (PFTs) to shift northward into areas traditionally too cold for them, in other words detect an increase of evergreen broadleaf (EB) saplings in deciduous broadleaf (DC) forests, and an increase of DC saplings in boreal conifer (BC) forests. We measured changes using the difference in relative abundance between the first and final years of the surveys and correlated them with weather data, presence of animal disturbance, and the age of forest in the plot among others. We found that the majority of the forest plots examined did not change their dominant PFTs, but that EBs increased in their abundance regardless of age and other factors. DB trees also increased their abundance in BC and temperate conifer (TC) forests, while slightly decreased their presence in DB forests. However, this change resulted not only from increased warm-favouring sapling intrusion intro traditionally colder forest types, but also from increased mortality of mature trees in the original PFT groups. Saplings from all PFTs, apart from TC, increased their relative abundance, while the abundance of mature trees decreased in the BC and TC group, indicating that mature conifers are more sensitive to climate change than their broadleaved counterparts. Herbivory and insect damage had little impact on the results, while both monocultures and highly diverse forests showed little change in the relative abundance of PFTs, suggesting higher resilience to intrusions. In conclusion, we found that EB trees benefit most from the changing environmental conditions, while TC trees suffer most from it, followed by BC trees. The movement of the distribution range of saplings had less impact than previously expected though, with mortality of mature trees playing a larger role.
+
+How to cite: Végh, L., Yoshikawa, T. and Takeuchi, Y.: Trees on the move:how climate change affects the functional species composition of forests in Japan, Ecological Society of Japan conference 2026, Kyoto, Japan, 11-15 March 2026, Oral presentation (N01-08)
+
+
+![](GraphAbstr.png) 
+
+**Some survey animations**
+
+![Plots containing BC](Uryu_Spring_LowTr1E_shika_2.gif) 
+![Plots containing DB](Uryu_Spring_LowTr1E_racoon.gif) 
+![Plots containing EB](Chib_Fall_LowTr13_bear.gif) 
+
+
+# Fresh submission!
+
+
+<p style="font-size: 150%; font-weight: bold; margin-top: 1em;">
+Integrating the Japanese vegetation categories and the IUCN global ecosystem typology - a high resolution, terrestrial ecosystem dataset defining *Subglobal ecosystem types* under *Ecosystem functional groups*
+</p>
+
+Link to pre-print: [https://doi.org/10.22541/au.177269411.19684440/v1](https://doi.org/10.22541/au.177269411.19684440/v1)
+
+**Abstract**
+
+The International Union for Conservation of Nature has recently developed a global ecosystem typology (IUCN typology) based on functional characteristics. However, the existing global maps for Level 3 of the typology (*Ecosystem functional groups*, EFGs) have low spatial resolution and fail to recognize certain categories in Japan limiting precise ecosystem analysis for global comparisons. To address these, we developed Level 6 classification, *Subglobal ecosystem types* (SETs), of the IUCN typology in Japan, directly under EFGs, by using the Japanese vegetation maps provided by the Ministry of Environment. First, we systematically identified potential parent EFGs for each Japanese vegetation categories, then conducted repeated iterative expert reviews until consensus was reached. Finally, we incorporated the land-use classification developed by the National Institute for Environmental Studies. The resulting correspondence tables and high-resolution spatial dataset include 133 SETs, belonging to 28 EFGs, 14 *Biomes*, and 7 *Realms*, focusing on terrestrial and related ecosystems. Within these Realms, the Intensive land-use Biome had the largest surface area, followed by Temperate-boreal forests and woodlands. Compared to the global maps, we identified seven new EFGs in Japan and extended the northern geographical range of some subtropical EFGs. SETs along climatic and anthropogenic gradients were challenging to align with existing EFGs, as were SETs related to characteristic vegetation communities in Japan and Asia, such as bamboo forests. The SETs created in this study enhance national assessments by providing spatially explicit information on ecosystem distribution and land-use, therefore can form an integral part of regional and global biodiversity monitoring.
+
+
+**Graphical abstract**
+
+![](GraphAbstr.png) 
+
+# In progress
+
+## UGA in Megacities
+
+We are preparing an analysis comparing urban green areas in Tokyo and Bangkok, focusing on their potential as biodiversity refuge and providing ecosystem services. This research is part of a larger effort by APBON, the Asia-Pacific Biodiversity Observation Network, trying to map challenges faced by the region in contrast to European or North-American landscapes.
+
+<img src="Figure1.tif">
+*Comparison of urban green areas in Tokyo and Bangkok*
+
+
+# Selected past works
+
+## Publications
+
+Takeuchi, Y., Végh, L., Noda, H., Böttcher, K., Vihervaara, P., Kass, J. M., Hama, I., & Saito, Y. (2025). National-scale terrestrial biodiversity and ecosystem monitoring with essential biodiversity variables in Japan and Finland. Ecological Research, 40(6), e70011. [https://doi.org/10.1111/1440-1703.70011](https://doi.org/10.1111/1440-1703.70011)
+
+Végh, L., & Kato, T. (2024). Modified SEIB-DGVM enables simulation of masting in a temperate forest. Ecological Modelling, 488, 110577. [https://doi.org/10.1016/j.ecolmodel.2023.110577](https://doi.org/10.1016/j.ecolmodel.2023.110577)
+
+Ninomiya, H., Kato, T., Végh, L., & Wu, L. (2023). Modeling of non-structural carbohydrate dynamics by the spatially explicit individual-based dynamic global vegetation model SEIB-DGVM (SEIB-DGVM-NSC version 1.0). Geoscientific Model Development, 16(14), 4155–4170. [https://doi.org/10.5194/gmd-16-4155-2023](https://doi.org/10.5194/gmd-16-4155-2023)
+
+Végh, L., & Tsuyuzaki, S. (2022). Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan—Impacts of early forest management. Forest Ecology and Management, 510, 120106. [https://doi.org/10.1016/j.foreco.2022.120106](https://doi.org/10.1016/j.foreco.2022.120106)
+
+Végh, L., & Tsuyuzaki, S. (2021). Remote sensing of forest diversities: The effect of image resolution and spectral plot extent. International Journal of Remote Sensing, 42(15), 5985–6002. [https://doi.org/10.1080/01431161.2021.1934596](https://doi.org/10.1080/01431161.2021.1934596)
+
+Végh, L., & Tsuyuzaki, S. (2021). Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research, 36(2), 329–339. [https://doi.org/10.1111/1440-1703.12199](https://doi.org/10.1111/1440-1703.12199)
+
+## AGU 2025
+
+<p style="font-size: 120%; font-weight: bold; margin-top: 1em;">
+Where the Acorns Fall – Connecting Masting and Foraging Behavior of Animals
+</p>
 
 **Authors**: Lea Végh<sup>a</sup>, Tomomichi Kato<sup>b</sup>
 
@@ -41,53 +113,6 @@ How to cite: Végh, L., Kato, T.: Where the Acorns Fall – Connecting Masting a
 ## Poster summary
 
 ![](Where_acorns_Vegh.png) 
-
-
-# In progress
-
-## IUCN GET in Japan
-
-**2025 December: Soon to be resubmitted! Lot's of changes happened, we shifted from Level 4 to Level 6 as it is more suitable for national level categories. Stay tuned.**
-
-Data paper under on matching Japanese habitat categories with the international IUCN ecosystem typology (Preparing for resubmission at Ecological Research)
-
-Link to pre-print: [https://doi.org/10.22541/au.173319062.28331883/v1](https://doi.org/10.22541/au.173319062.28331883/v1)
-
-<p style="font-size: 150%; font-weight: bold; margin-top: 1em;">
-High-resolution spatial dataset of ecosystem types in Japan classified within the IUCN global ecosystem typology scheme with new categories at the *Regional subgroups* level
-</p>
-
-**Abstract**
-
-The International Union for Conservation of Nature (IUCN) has recently developed a global ecosystem typology (IUCN typology) based on the functional characteristics of the ecosystems. However, its low spatial resolution and lack of recognition of certain categories in Japan limits effective and precise habitat analysis for global comparisons. In this data paper, we used the Japanese vegetation map provided by the Ministry of Environment (MOE) to align Japanese vegetation categories with the IUCN typology scheme up to Level 4, *Regional subgroups*, developing a correspondence table and a high-resolution spatial dataset focusing on terrestrial ecosystems. In addition, we also integrated the land-use classification developed by the National Institute for Environmental Studies. The dataset includes tables describing the integration of Japanese habitat classification with IUCN typology from Level 1 to 4 (*Realms, Biomes, Ecosystem functional groups, Regional subgroups*), explanation of land-use categories, and the main corresponding table as well as high-resolution integrated GIS data. This integration supports both global and local studies, with the tables including English and Japanese names of the classification tree.
-
-<img src="Figure1.tif">
-*Japanese vegetation maps corresponding to the different IUCN levels. (a) Realms, (b) Biomes, (c) EFGs, and (d) Regional subgroups. Extent indicator of the next map is marked on each map. Detailed names for the IDs on (c, d) are shown in Table 1.  Realms IDs: F – Freshwater, FM – Freshwater-Marine, MFT – Marine-Freshwater-Terrestrial, MT – Marine-Terrestrial, S – Subterranean, T – Terrestrial, TF – Terrestrial-Freshwater, Biomes IDs: F3 – Artificial wetlands, MFT1 – Brackish tidal, MT1 – Shorelines, MT2 – Supralittoral coastal, T2 – Temperate-boreal forests and woodlands, T3 – Shrublands and shrubby woodlands, T7 – Intensive land-use, TF1 – Palustrine wetlands*
-
-![](Figure2.jpg)  
-*Visual summary of Realms, Biomes, EFGs and Regional subgroups (RS) in Japan (Level 1-4). (a): The area of different Biomes by Realms in Japan. (b): The number of RS in each EFG, where colour indicates whether the EFG was included for Japan by Keith et al. (2023) or not. (c): The percentage of surface area of each terrestrial RS by EFGs. The name of EFG and RS IDs are shown in Table 1.*
-
-## UGA in Megacities
-
-We are preparing an analysis comparing urban green areas in Tokyo and Bangkok, focusing on their potential as biodiversity refuge and providing ecosystem services. This research in part of a larger effort by APBON, the Asia-Pacific Biodiversity Observation Network, trying to map challenges faced by the region in contrast to European or North-American landscapes.
-
-
-# Selected past works
-
-## Publications
-
-Takeuchi, Y., Végh, L., Noda, H., Böttcher, K., Vihervaara, P., Kass, J. M., Hama, I., & Saito, Y. (2025). National-scale terrestrial biodiversity and ecosystem monitoring with essential biodiversity variables in Japan and Finland. Ecological Research, 40(6), e70011. [https://doi.org/10.1111/1440-1703.70011](https://doi.org/10.1111/1440-1703.70011)
-
-Végh, L., & Kato, T. (2024). Modified SEIB-DGVM enables simulation of masting in a temperate forest. Ecological Modelling, 488, 110577. [https://doi.org/10.1016/j.ecolmodel.2023.110577](https://doi.org/10.1016/j.ecolmodel.2023.110577)
-
-Ninomiya, H., Kato, T., Végh, L., & Wu, L. (2023). Modeling of non-structural carbohydrate dynamics by the spatially explicit individual-based dynamic global vegetation model SEIB-DGVM (SEIB-DGVM-NSC version 1.0). Geoscientific Model Development, 16(14), 4155–4170. [https://doi.org/10.5194/gmd-16-4155-2023](https://doi.org/10.5194/gmd-16-4155-2023)
-
-Végh, L., & Tsuyuzaki, S. (2022). Differences in canopy and understorey diversities after the eruptions of Mount Usu, northern Japan—Impacts of early forest management. Forest Ecology and Management, 510, 120106. [https://doi.org/10.1016/j.foreco.2022.120106](https://doi.org/10.1016/j.foreco.2022.120106)
-
-Végh, L., & Tsuyuzaki, S. (2021). Remote sensing of forest diversities: The effect of image resolution and spectral plot extent. International Journal of Remote Sensing, 42(15), 5985–6002. [https://doi.org/10.1080/01431161.2021.1934596](https://doi.org/10.1080/01431161.2021.1934596)
-
-Végh, L., & Tsuyuzaki, S. (2021). Comparison of vegetation patch dynamics after the eruptions of the volcano Mount Usu, northern Japan, in 1977–1978 and 2000, detected by imagery chronosequence. Ecological Research, 36(2), 329–339. [https://doi.org/10.1111/1440-1703.12199](https://doi.org/10.1111/1440-1703.12199)
-
 
 ## EGU 2025 
 
