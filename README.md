@@ -40,7 +40,7 @@ How to cite: Végh, L., Yoshikawa, T. and Takeuchi, Y.: Trees on the move:how c
 
 
 <p style="font-size: 150%; font-weight: bold; margin-top: 1em;">
-Integrating the Japanese vegetation categories and the IUCN global ecosystem typology - a high resolution, terrestrial ecosystem dataset defining *Subglobal ecosystem types* under *Ecosystem functional groups*
+Integrating the Japanese vegetation categories and the IUCN global ecosystem typology - a high resolution, terrestrial ecosystem dataset defining <i>Subglobal ecosystem types</i> under *Ecosystem functional groups*
 </p>
 
 Link to pre-print: [https://doi.org/10.22541/au.177269411.19684440/v1](https://doi.org/10.22541/au.177269411.19684440/v1)
