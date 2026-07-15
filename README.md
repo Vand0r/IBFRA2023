@@ -27,7 +27,6 @@ Temperature, precipitation and other environmental patterns change fast due to c
 How to cite: Végh, L., Yoshikawa, T. and Takeuchi, Y.: Trees on the move:how climate change affects the functional species composition of forests in Japan, Ecological Society of Japan conference 2026, Kyoto, Japan, 11-15 March 2026, Oral presentation (N01-08)
 
 
-#![](QA_pic.png) 
 <img src="QA_pic.png"  width="50%" height="50%">
 
 **Some survey animations**
