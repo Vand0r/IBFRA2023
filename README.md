@@ -27,7 +27,8 @@ Temperature, precipitation and other environmental patterns change fast due to c
 How to cite: Végh, L., Yoshikawa, T. and Takeuchi, Y.: Trees on the move:how climate change affects the functional species composition of forests in Japan, Ecological Society of Japan conference 2026, Kyoto, Japan, 11-15 March 2026, Oral presentation (N01-08)
 
 
-![](QA_pic.png) 
+#![](QA_pic.png) 
+<img src="QA_pic.png"  width="50%" height="50%">
 
 **Some survey animations**
 
@@ -60,7 +61,7 @@ The International Union for Conservation of Nature has recently developed a glob
 
 We are preparing an analysis comparing urban green areas in Tokyo and Bangkok, focusing on their potential as biodiversity refuge and providing ecosystem services. This research is part of a larger effort by APBON, the Asia-Pacific Biodiversity Observation Network, trying to map challenges faced by the region in contrast to European or North-American landscapes.
 
-<img src="Layout_Violin_Feb20.tif">
+<img src="Layout_Violin_Feb20.jpg">
 *Comparison of urban green areas in Tokyo and Bangkok and the role of Places of Worship (PofW)*
 
 
