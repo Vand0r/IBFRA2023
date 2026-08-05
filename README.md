@@ -10,11 +10,12 @@ Email: lea.vegh@nies.go.jp
 
 Forest ecology, Disturbance ecology, Remote sensing, Modelling, Renewable energy
 
-# Current work - ESJ 2026
+# Current work - AOGS 2026
 
-## Trees on the move: how climate change affects the functional species composition of forests in Japan
+## Long-term changes in the functional species composition of Japanese forests under a changing climate
 
-**Authors**: Lea Végh<sup>a</sup>, Tetsuro Yoshikawa<sup>b</sup>, Yayoi Takeuchi<sup>ac</sup>
+
+**Authors**: Lea Végh<sup>a</sup>, Tetsuro Yoshikawa<sup>b</sup>, Hibiki Noda<sup>a</sup>, Yayoi Takeuchi<sup>ac</sup>
 
 <sup>a</sup>Biodiversity division, National Institute for Environmental Studies  
 <sup>b</sup>Graduate School of Science Department of Biology, Osaka Metropolitan University  
@@ -22,28 +23,42 @@ Forest ecology, Disturbance ecology, Remote sensing, Modelling, Renewable energy
 
 **Abstract**
 
-Temperature, precipitation and other environmental patterns change fast due to climate change. This rapid change might cause problems for tree species which can only shift their distribution range slowly. To see how the functional species composition of forests reacts to climate change across Japan, we analysed long-term monitoring data from forest plots across the country. We expected warm favouring plant functional types (PFTs) to shift northward into areas traditionally too cold for them, in other words detect an increase of evergreen broadleaf (EB) saplings in deciduous broadleaf (DC) forests, and an increase of DC saplings in boreal conifer (BC) forests. We measured changes using the difference in relative abundance between the first and final years of the surveys and correlated them with weather data, presence of animal disturbance, and the age of forest in the plot among others. We found that the majority of the forest plots examined did not change their dominant PFTs, but that EBs increased in their abundance regardless of age and other factors. DB trees also increased their abundance in BC and temperate conifer (TC) forests, while slightly decreased their presence in DB forests. However, this change resulted not only from increased warm-favouring sapling intrusion intro traditionally colder forest types, but also from increased mortality of mature trees in the original PFT groups. Saplings from all PFTs, apart from TC, increased their relative abundance, while the abundance of mature trees decreased in the BC and TC group, indicating that mature conifers are more sensitive to climate change than their broadleaved counterparts. Herbivory and insect damage had little impact on the results, while both monocultures and highly diverse forests showed little change in the relative abundance of PFTs, suggesting higher resilience to intrusions. In conclusion, we found that EB trees benefit most from the changing environmental conditions, while TC trees suffer most from it, followed by BC trees. The movement of the distribution range of saplings had less impact than previously expected though, with mortality of mature trees playing a larger role.
-
-How to cite: Végh, L., Yoshikawa, T. and Takeuchi, Y.: Trees on the move:how climate change affects the functional species composition of forests in Japan, Ecological Society of Japan conference 2026, Kyoto, Japan, 11-15 March 2026, Oral presentation (N01-08)
+Climate change affects establishment and survival of trees in the forests by modifying the boundaries of the environmental conditions suitable for them. This can lead to changes in forest composition, such as shifting to plant functional types (PFTs) favouring warmer and drier conditions. Shifting PFT compositions will influence biodiversity conservation, ecosystem services, and economic income, yet despite its importance, this process is still not fully examined. In this study, we analysed long-term forest monitoring data from plots stretching over Japan to investigate whether there is a detectable shift in PFT composition depending on latitude, age, forest type, and other factors. We found that evergreen broadleaf (EB) trees increased in abundance between the first and final years of the surveys at several locations, independent of forest type, age and latitude. Saplings of boreal conifer (BC) trees and deciduous broadleaf (DB) trees also largely increased in abundance, whereas older trees decreased in abundance, with mature BC trees showing the highest mortality. Temperate conifer (TC) trees displayed an opposite pattern, with saplings decreasing in abundance and older trees keeping stable numbers. The least and most diverse forests had stable levels of abundances, indicating high resilience to changes in PFT composition, although the species composition of saplings became more similar among forest plots compared to the composition of older trees. While the dominant PFT remained unaltered in most plots, traditionally DB and TC dominant forests were more sensitive to EB intrusion over the years. Sudden changes in some forest plots indicated that indirect effects of climate change, such as the increased frequency and intensity of extreme weather events, might have a greater impact than slower, sustained changes in temperature and precipitation. Our results can contribute to better management decisions in the conservation and forestry sectors to mitigate the negative impacts of climate change.
 
 
 <img src="QA_pic.png"  width="50%" height="50%">
 
-**Some survey animations**
-
-![Plots containing BC](BC_animation.gif) 
-![Plots containing DB](DB_animation.gif) 
-![Plots containing EB](EB_animation.gif) 
 
 
-# Fresh submission!
+
+# Fresh submissions!
+
+<p style="font-size: 150%; font-weight: bold; margin-top: 1em;">
+Challenges and ways forward for implementing essential biodiversity and ecosystem service variables in Asia
+</p>
+
+*Re-submitted after minor revision*
+
+Link to pre-print: [https://www.authorea.com/doi/abs/10.22541/authorea.15003123/v1](https://www.authorea.com/doi/abs/10.22541/authorea.15003123/v1)
+
+**Abstract**
+
+Essential Biodiversity Variables (EBVs) and Essential Ecosystem Service Variables (EESVs) were developed to provide standardized frameworks to link biodiversity and ecosystem observations and to provide policy-relevant indicators. However, their applicability in Asia remains insufficiently explored, a vast continent characterized by exceptional biodiversity with major knowledge gaps, as well as diverse cultural landscapes, prevalence of megacities, and high degrees of threat from various human pressures. In this paper, we identify three key features of Asian biodiversity that are not fully captured by current EBV or EESV frameworks: undescribed diversity, socio-ecological production landscapes, and urban green spaces associated with sacred sites in megacities. First, Asia harbors a disproportionate share of the world’s undescribed and cryptic species, meaning species-focused EBVs may underestimate biodiversity unless predictive measures of latent diversity are incorporated. Second, landscapes shaped by long-term interactions between humans and nature support biodiversity, maintain ecosystem functions, and preserve cultural practices, but they are often overlooked or labeled as degraded in existing classification systems. Third, urban green spaces in Asian megacities, including those around sacred sites, can provide important habitats and ecosystem services, and may also contribute to Other Effective area-based Conservation Measures (OECM). The integration of EBVs and EESVs offers a more suitable framework for Asia, especially relating to socio-ecological production landscapes and urban green spaces. To promote EBV-based monitoring in Asia, we need to strengthen regional partnerships, data networks, and capacity building, which should advance biodiversity monitoring across the region.
+
+
+Link to pre-print: [https://doi.org/10.22541/au.177269411.19684440/v1](https://doi.org/10.22541/au.177269411.19684440/v1)
+
+I was preparing the analysis comparing urban green areas in Tokyo and Bangkok, focusing on their potential as biodiversity refuge and providing ecosystem services. This research is part of a larger effort by APBON, the Asia-Pacific Biodiversity Observation Network, trying to map challenges faced by the region in contrast to European or North-American landscapes.
+
+<img src="Layout_Violin_Feb20.jpg">
+*Comparison of urban green areas in Tokyo and Bangkok and the role of Places of Worship (PofW)*
 
 
 <p style="font-size: 150%; font-weight: bold; margin-top: 1em;">
 Integrating the Japanese vegetation categories and the IUCN global ecosystem typology - a high resolution, terrestrial ecosystem dataset defining <i>Subglobal ecosystem types</i> under <i>Ecosystem functional groups</i>
 </p>
 
-Link to pre-print: [https://doi.org/10.22541/au.177269411.19684440/v1](https://doi.org/10.22541/au.177269411.19684440/v1)
+*Waiting for response*
 
 **Abstract**
 
@@ -54,14 +69,9 @@ The International Union for Conservation of Nature has recently developed a glob
 
 ![](GraphAbst_IUCN.jpg) 
 
-# In progress
 
-## UGA in Megacities
 
-We are preparing an analysis comparing urban green areas in Tokyo and Bangkok, focusing on their potential as biodiversity refuge and providing ecosystem services. This research is part of a larger effort by APBON, the Asia-Pacific Biodiversity Observation Network, trying to map challenges faced by the region in contrast to European or North-American landscapes.
 
-<img src="Layout_Violin_Feb20.jpg">
-*Comparison of urban green areas in Tokyo and Bangkok and the role of Places of Worship (PofW)*
 
 
 # Selected past works
